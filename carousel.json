@@ -1,16 +1,9 @@
 [
   {
-    "banner": "https://pbs.twimg.com/media/HC0sGrQacAASG7M.jpg",
-    "name": "Fanny · Skylark",
-    "role": "Assassin",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_skylark.zip",
-    "image": ""
-  },
-  {
-    "banner": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Chou_%28Hip-hop_Boy%29.jpg/revision/latest/scale-to-width-down/1000?cb=20241128083611",
-    "name": "Chou · Hip Hop Boy",
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzZlX7TgUZdr054xQGUeUO_7TjrsSzQzjAdzPqFZtcy4zr4-Syr5ZesJCr&s=10",
+    "name": "Ken Masters",
     "role": "Fighter",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_skylark.zip",
+    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/chou%20ken.zip",
     "image": ""
   }
 ]
