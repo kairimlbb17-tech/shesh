@@ -5487,10 +5487,10 @@
         },
         {
           "id": "chou_013",
-          "name": "Ken Masters, Chou",
+          "name": "",
           "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
           "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/chou%20ken.zip",
-          "featured": true,
+          "featured": false,
           "enabled": true,
           "tags": []
         }
