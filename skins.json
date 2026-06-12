@@ -5492,15 +5492,7 @@
           "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/chou%20ken.zip",
           "featured": true,
           "enabled": true,
-          "tags": [
-            {
-              "id": "kof",
-              "name": "KOF",
-              "file": "KOF Skin Tag.png",
-              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/KOF_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-              "type": "collab"
-            }
-          ]
+          "tags": []
         }
       ]
     },
