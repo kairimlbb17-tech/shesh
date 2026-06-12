@@ -155,7 +155,7 @@
     {
       "id": "alucard_2",
       "name": "Alucard",
-      "category": "Anime",
+      "category": "Finn",
       "series": "Adventure Time",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20FINN.jpg",
       "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20X%20FINN.zip",
@@ -164,6 +164,19 @@
       "tags": [
         "Finn",
         "Adventure Time"
+      ]
+    },
+    {
+      "id": "saitama",
+      "name": "Aldous",
+      "category": "Saitama",
+      "series": "One Punch Man",
+      "image": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(21).jpeg",
+      "script": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20ALDOUS%20SAITAMA.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "One Punch Man"
       ]
     }
   ],
