@@ -4,6 +4,27 @@
     "name": "Chou • Ken Masters",
     "role": "Fighter",
     "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/chou%20ken.zip",
-    "image": ""
+    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png"
+  },
+  {
+    "banner": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8p3jc-YHsriuB665GAPj9AerGs8YMqI90u1gGVH53X3fHOsHAOGKaAjg&s=10",
+    "name": "Guinevere •  Chun-Li",
+    "role": "Fighter",
+    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/guin%20chun.zip",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_901bdd5d4432a2c0290dfc71df615a5a.png"
+  },
+  {
+    "banner": "https://pbs.twimg.com/media/HJaanYaaQAAmJIs.jpg",
+    "name": "Paquito • Ryu",
+    "role": "Fighter",
+    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/paq%20street.zip",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png"
+  },
+  {
+    "banner": "https://pbs.twimg.com/media/HJaaVWeakAAZlJM.jpg",
+    "name": "Dyrroth • Guile",
+    "role": "Fighter",
+    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/dy%20street.zip",
+    "image": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_050b3045a7fd2b37f1017557f5695ca6.png"
   }
 ]
