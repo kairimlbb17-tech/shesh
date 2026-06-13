@@ -13,26 +13,7 @@
           "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_backup.zip",
           "featured": false,
           "enabled": true,
-          "tags": [
-            {
-              "id": "backup",
-              "name": "backup",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "aamon",
-              "name": "aamon",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "assassin",
-              "name": "assassin",
-              "icon": "",
-              "file": ""
-            }
-          ],
+          "tags": [],
           "name": ""
         },
         {
