@@ -1,20 +1,6 @@
 {
   "modskins": [
     {
-      "id": "aizen",
-      "name": "Argus",
-      "category": "Anime",
-      "series": "Bleach",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Aizen",
-        "Bleach"
-      ]
-    },
-    {
       "id": "alucard",
       "name": "Alucard",
       "category": "Anime",
@@ -25,6 +11,20 @@
       "featured": false,
       "tags": [
         "Ichigo Kurosaki",
+        "Bleach"
+      ]
+    },
+    {
+      "id": "aizen",
+      "name": "Argus",
+      "category": "Anime",
+      "series": "Bleach",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Aizen",
         "Bleach"
       ]
     },
