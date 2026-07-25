@@ -3825,32 +3825,6 @@
       ]
     },
     {
-      "id": "boom",
-      "name": "Boom",
-      "category": "assassin",
-      "enabled": true,
-      "skins": [
-        {
-          "id": "boom_001",
-          "name": "",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest/thumbnail/width/360/height/450?cb=20250917080630",
-          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/thanuz_kungfuassets.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": []
-        },
-        {
-          "id": "boom_002",
-          "name": "",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
-          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/chou_dragon2017.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": []
-        }
-      ]
-    },
-    {
       "id": "brody",
       "name": "Brody",
       "category": "marksman",
@@ -5182,6 +5156,16 @@
             }
           ],
           "name": "Ken Masters, Chou"
+        },
+        {
+          "id": "boom_002",
+          "name": "",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
+          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/chou_dragon2017.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "skin_name": "Dragon Boy"
         }
       ]
     },
@@ -7361,7 +7345,8 @@
               "icon": "",
               "file": ""
             }
-          ]
+          ],
+          "skin_name": "Backup"
         },
         {
           "id": "fanny_002",
@@ -7378,7 +7363,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Legend"
         },
         {
           "id": "fanny_003",
@@ -7395,7 +7381,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Summer_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
             }
-          ]
+          ],
+          "skin_name": "Summer"
         },
         {
           "id": "fanny_004",
@@ -7448,7 +7435,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Skylark"
         },
         {
           "id": "fanny_007",
@@ -7465,7 +7453,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Lightborn_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "series"
             }
-          ]
+          ],
+          "skin_name": "Lightborn"
         },
         {
           "id": "fanny_008",
@@ -7500,7 +7489,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Valentine_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "event"
             }
-          ]
+          ],
+          "skin_name": "Heart Afloat"
         },
         {
           "id": "fanny_010",
@@ -7517,7 +7507,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Elite_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Campus Youth"
         },
         {
           "id": "fanny_011",
@@ -7534,7 +7525,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Royal Cavalry"
         },
         {
           "id": "fanny_012",
@@ -7550,7 +7542,8 @@
               "icon": "",
               "file": ""
             }
-          ]
+          ],
+          "skin_name": "Pace"
         }
       ]
     },
@@ -8317,7 +8310,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Legend"
         },
         {
           "id": "freya_003",
@@ -15178,7 +15172,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "series"
             }
-          ]
+          ],
+          "skin_name": "Aspirant"
         },
         {
           "id": "layla_003",
@@ -15867,7 +15862,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Legend"
         },
         {
           "id": "lesley_007",
@@ -22819,6 +22815,16 @@
             }
           ],
           "name": ""
+        },
+        {
+          "id": "boom_001",
+          "name": "",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest/thumbnail/width/360/height/450?cb=20250917080630",
+          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/thanuz_kungfuassets.zip",
+          "featured": false,
+          "enabled": true,
+          "tags": [],
+          "skin_name": "Kungfu"
         }
       ]
     },
@@ -25472,7 +25478,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "type": "rarity"
             }
-          ]
+          ],
+          "skin_name": "Starlight"
         }
       ]
     },
