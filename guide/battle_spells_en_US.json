@@ -1,0 +1,110 @@
+[
+  {
+    "id": "aegis",
+    "name": "Aegis",
+    "unlock_level": 5,
+    "cooldown": 75,
+    "cost": 40,
+    "description": "Gain a 750(+90*Hero Level) shield for 5s.",
+    "overview": "Protect Squishy Heroes"
+  },
+  {
+    "id": "arrival",
+    "name": "Arrival",
+    "unlock_level": 29,
+    "cooldown": 75,
+    "cost": 599,
+    "description": "After channeling for 3s, telepot to the target allied Turret, Base, Minion, or trap and gain 60% extra Movement Speed (decays over 3s) afterward.<br><br>If the channeling is canceled or interrupted, 30s of the spell cooldown will be <highlight>refunded</highlight>.",
+    "overview": "Long-range Teleport"
+  },
+  {
+    "id": "execute",
+    "name": "Execute",
+    "unlock_level": 14,
+    "cooldown": 90,
+    "cost": 99,
+    "description": "Deal 100 (+10*Hero Level) plus 13% of the target's lost HP as <trueDamage>True Damage</trueDamage> to the target enemy hero.<br><br>This damage <highlight>ignores shields</highlight>. If the target is slain by this skill, the cooldown will be reduced by 40%.",
+    "overview": "Low HP Execution"
+  },
+  {
+    "id": "flameshot",
+    "name": "Flameshot",
+    "unlock_level": 7,
+    "cooldown": 50,
+    "cost": 60,
+    "description": "Fire a Flaming Shot in the target direction. <highlight>knocking back</highlight> nearby enemies and dealing 200 <scaleAP>(+50% Total Magic Power)</scaleAP> - 680 <scaleAP>(+170 Total Magic Power)</scaleAP> <magicDamage>Magic Damage</magicDamage> (scales with flying distance) to the first enemy hero or creep hit.",
+    "overview": "Attack & Defend"
+  },
+  {
+    "id": "flicker",
+    "name": "Flicker",
+    "unlock_level": 12,
+    "cooldown": 120,
+    "cost": 99,
+    "description": "Blink a fixed distance in the target direction and gain 5(+1*Hero Level) extra Physical & Magic Defense afterward for 1s.",
+    "overview": "Mobility"
+  },
+  {
+    "id": "inspire",
+    "name": "Inspire",
+    "unlock_level": 20,
+    "cooldown": 75,
+    "cost": 399,
+    "description": "For up to 6 Basic Attacks within the next 5s, increase Attack Speed to 1.5 times and the Attack Speed cap to 500%.<br><br>The Basic Attacks also <highlight>ignore</highlight> 8 (+1*Hero Level) of the target's Hybrid Defense and restore 60 <scaleAD>(+15% Total Physical Attack)</scaleAD> <scaleAP>(+15% Total Magic Power)</scaleAP> HP on hit.",
+    "overview": "Enhance Basic Attacks"
+  },
+  {
+    "id": "petrify",
+    "name": "Petrify",
+    "unlock_level": 17,
+    "cooldown": 75,
+    "cost": 199,
+    "description": "Deals 100 (+15*Hero Level) <magicDamage>Magic Damage</magicDamage> to nearby enemies, <highlight>petrify</highlight> them for 0.8s, and slow them by 50% for 0.8s afterward.",
+    "overview": "AOE Control"
+  },
+  {
+    "id": "purify",
+    "name": "Purify",
+    "unlock_level": 21,
+    "cooldown": 90,
+    "cost": 499,
+    "description": "Remove all debuffs (excluding Suppression) and gain <highlight>Control Immunity</highlight> and 15% extra Movement Speed for 1.2s.",
+    "overview": "Cleanse Debuffs"
+  },
+  {
+    "id": "retribution",
+    "name": "Retribution",
+    "unlock_level": 1,
+    "cooldown": 35,
+    "cost": 0,
+    "description": "Deals 750 (+150*Hero Level) <trueDamage>True Damage</trueDamage> to the target creep or minion.<br><br><highlight>Passive</highlight>: Increases Creep rewards by 60% and reduces damage taken form basic Creeps by 40%. ALso grants 15% additional Damage Reduction in the allied jungle during the first 2 min. Cannot share Minion rewards with llied heroes in the first 5 min.<br><br><highlight>Blessing</highlight>: Accumulate 5 Creep kills, hero kills, or assists to upgrade the spell according to the Jungling Boots' Blessing, and 15 kills or assists to gain 10 Physical Attack and Magic Power and 100 Max HP.",
+    "overview": "Jungle Special"
+  },
+  {
+    "id": "revitalize",
+    "name": "Revitalize",
+    "unlock_level": 3,
+    "cooldown": 75,
+    "cost": 40,
+    "description": "Summon a Healing Spring that surrounds the hero and lasts 4s, restoring 2.5% Max HP every 0.4s to affected allied heroes (including self) and increasing <highlight>Shield and HP Regen</highlight> effects received by 25% (this effect cannot stack).",
+    "overview": "Large AOE Heal"
+  },
+  {
+    "id": "sprint",
+    "name": "Sprint",
+    "unlock_level": 19,
+    "cooldown": 100,
+    "cost": 299,
+    "description": "Gain 50% extra Movement Speed and <highlight>Slow Immunity</highlight> for 6s.",
+    "overview": "Long-lasting Speed Up"
+  },
+  {
+    "id": "vengeance",
+    "name": "Vengeance",
+    "unlock_level": 9,
+    "cooldown": 75,
+    "cost": 60,
+    "description": "For 3s, gains 25% <highlight>Damage Reduction</highlight> and deal 35% of damage taken as <magicDamage>Magic Damage</magicDamage> back to the attacker each time you take damage.",
+    "overview": "Reflect Damage"
+  }
+]
