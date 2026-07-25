@@ -1,0 +1,3954 @@
+[
+  {
+    "id": "activeconceal",
+    "name": "Active - Conceal",
+    "type": "Roaming",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": "arcanebootsconceal,demonbootsconceal,magicbootsconceal,rapidbootsconceal,swiftbootsconceal,toughbootsconceal,warriorbootsconceal",
+    "description": "Active: Conceals you and nearby allied heroes, granting 40% extra Movement Speed for 5s, or until taking or dealing damage.<br><br>When near allied heroes, you gain 30% EXP and Gold from minions and creeps. Dealing damage to enemy heroes (Cooldown: 15s) or revealing enemies also grants EXP and Gold. This skill can only be unlocked after accumulating 1000 Gold from Thriving.",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "allowthrow",
+    "name": "Allow Throw",
+    "type": "Movement",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": null,
+    "description": "Unique Passive - Trust: Allow allied Jawhead to fling you.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "antiquecuirass",
+    "name": "Antique Cuirass",
+    "type": "Defense",
+    "price": 2170,
+    "upgraded_price": 740,
+    "level": 3,
+    "build_from": "dreadnaughtarmor,aresbelt",
+    "build_into": null,
+    "description": "Unique Passive - Deter: When hit by a skill, reduces the attacker's Physical Damage by 6% for 2 seconds (this effect stacks up to 3 times).",
+    "story": "After taking control of the Barren Lands, the humans found this ancient armor among the Orcs, which uses far more advanced technology and contains a miraculous power.",
+    "overview": "Physical Attack Reduction",
+    "tips": "Ideal for countering heroes who rely on physical skills.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 920
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 40
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "arcaneboots",
+    "name": "Arcane Boots",
+    "type": "Movement",
+    "price": 720,
+    "upgraded_price": 170,
+    "level": 3,
+    "build_from": "boots,mysterycodex",
+    "build_into": "arcanebootsconceal,arcanebootsdirehit,arcanebootsencourage,arcanebootsfavor,icehuntersarcaneboots,flamehuntersarcaneboots,behemothhuntersarcaneboots",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": "Magic Penetration",
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      },
+      {
+        "key": "FlatMagicPenetration",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "id": "arcanebootsconceal",
+    "name": "Arcane Boots - Conceal",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 170,
+    "level": 3,
+    "build_from": "arcaneboots,activeconceal",
+    "build_into": null,
+    "description": "<unique>Blessed: Active - Conceal</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      },
+      {
+        "key": "FlatMagicPenetration",
+        "value": 10
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "arcanebootsdirehit",
+    "name": "Arcane Boots - Dire Hit",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 170,
+    "level": 3,
+    "build_from": "arcaneboots,passivedirehit",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Dire Hit</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      },
+      {
+        "key": "FlatMagicPenetration",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "id": "arcanebootsencourage",
+    "name": "Arcane Boots - Encourage",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 170,
+    "level": 3,
+    "build_from": "arcaneboots,passiveencourage",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Encourage</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicPenetration",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "id": "arcanebootsfavor",
+    "name": "Arcane Boots - Favor",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 170,
+    "level": 3,
+    "build_from": "arcaneboots,passivefavor",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Favor</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicPenetration",
+        "value": 10
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "aresbelt",
+    "name": "Ares Belt",
+    "type": "Defense",
+    "price": 700,
+    "upgraded_price": 400,
+    "level": 2,
+    "build_from": "vitalitycrystal",
+    "build_into": "thunderbelt,queenswings,antiquecuirass,guardianhelmet,bruteforcebreastplate,immortality,cursedhelmet,chastisepauldron",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 600
+      }
+    ]
+  },
+  {
+    "id": "athenasshield",
+    "name": "Athena's Shield",
+    "type": "Defense",
+    "price": 2150,
+    "upgraded_price": 830,
+    "level": 3,
+    "build_from": "silencerobe,vitalitycrystal",
+    "build_into": null,
+    "description": "Unique Passive - Shield: Upon taking Magic Damage from enemy hero skills or Basic Attacks, reduces Magic Damage taken by 25% for 3s (including the damage that triggers the effect). Regains this effect 5 after leaving combat.",
+    "story": "The power of the Valkyries as recorded in the Wine of Poetry, represents Valhalla's unwavering and eternal protection and responsibility to the northern tribes.",
+    "overview": "Resist Burst Magic Damage",
+    "tips": "Best equipped by heroes to greatly increase their abilities to resist Magic burst damage.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 900
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 48
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "id": "azureblade",
+    "name": "Azure Blade",
+    "type": "Magic",
+    "price": 600,
+    "upgraded_price": 360,
+    "level": 2,
+    "build_from": "magicnecklace,magicnecklace",
+    "build_into": "starliumscythe,endlessbattle",
+    "description": "Unique Passive - Judgement: After casting a skill, the next Basic Attack within 3 seconds deals 50 extra True Damage (1.5 seconds cooldown).",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatManaRegen",
+        "value": 5
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "behemothhuntersarcaneboots",
+    "name": "Behemoth Hunter's Arcane Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 170,
+    "level": 3,
+    "build_from": "arcaneboots,bloodyretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Bloody Retribution</unique><br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicPenetration",
+        "value": 10
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "behemothhuntersdemonboots",
+    "name": "Behemoth Hunter's Demon Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 230,
+    "level": 3,
+    "build_from": "demonboots,bloodyretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Bloody Retribution</unique><br>Unique Passive - Mysticism: Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2s after taking damage from the hero.)<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatManaRegen",
+        "value": 10
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "behemothhuntersmagicboots",
+    "name": "Behemoth Hunter's Magic Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 20,
+    "level": 3,
+    "build_from": "magicboots,bloodyretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Bloody Retribution</unique><br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "behemothhuntersrapidboots",
+    "name": "Behemoth Hunter's Rapid Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 220,
+    "level": 3,
+    "build_from": "rapidboots,bloodyretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Bloody Retribution</unique><br>Unique Passive - Side Effect: Loses 20 Movement Speed for 5s upon dealing or taking damage.<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 65
+      },
+      {
+        "key": "PercentSlowReduction",
+        "value": 0.35
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "id": "behemothhuntersswiftboots",
+    "name": "Behemoth Hunter's Swift Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 190,
+    "level": 3,
+    "build_from": "swiftboots,bloodyretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Bloody Retribution</unique><br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "behemothhunterstoughboots",
+    "name": "Behemoth Hunter's Tough Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "toughboots,bloodyretribtuion",
+    "build_into": null,
+    "description": "<unique>Blessed: Bloody Retribution</unique><br>Unique Passive - Fortitude: CC and Slow Duration reduced by 25%.<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 18
+      },
+      {
+        "key": "PercentTenacity",
+        "value": 0.25
+      }
+    ]
+  },
+  {
+    "id": "behemothhunterswarriorboots",
+    "name": "Behemoth Hunter's Warrior Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "warriorboots,bloodyretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Bloody Retribution</unique><br>Unique Passive - Valor: Gain 4 extra Physical Defense for 3s when taking Physical Damage, up to 20.<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": "berserkersfury",
+    "name": "Berserker's Fury",
+    "type": "Attack",
+    "price": 2390,
+    "upgraded_price": 840,
+    "level": 3,
+    "build_from": "legionsword,javelin,javelin",
+    "build_into": null,
+    "description": "Unique Attribute: +30% Crit Damage<br>Unique Passive - Doom: When Basic Attack Crit, they deal extra True Damage equal to 12% of the damage before reduction.",
+    "story": "A forgotten relic, lost in the Endless War. If the pain of the past ultimately leads to greater despair, then madness is only a step away.",
+    "overview": "Crit Chance & Damage",
+    "tips": "Best equipped by Physical heroes that rely on Critical Damage.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentCritChance",
+        "value": 0.25
+      },
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 60
+      },
+      {
+        "key": "PercentCritDamage",
+        "value": 0.3
+      }
+    ]
+  },
+  {
+    "id": "blackiceshield",
+    "name": "Black Ice Shield",
+    "type": "Defense",
+    "price": 780,
+    "upgraded_price": 260,
+    "level": 2,
+    "build_from": "leatherjerkin,magicresistcloak",
+    "build_into": "dominanceice",
+    "description": "Unique Passive - Fortress Shield: For each enemy hero within 5 units, Physical & Magic Defense is increased by 4, up to 20.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 20
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "bladearmor",
+    "name": "Blade Armor",
+    "type": "Defense",
+    "price": 1910,
+    "upgraded_price": 840,
+    "level": 3,
+    "build_from": "steellegplates,leatherjerkin,leatherjerkin",
+    "build_into": null,
+    "description": "Unique Attribute: +20% Crit Damage Reduction<br>Unique Passive - Bladed Armor: When struck by a Basic Attack, deals Physical Damage equal to 30 <scaleHP>(+2% Total Physical Defense)</scaleHP>% of the incoming damage (calculated before Damage Reduction) to the attacker and slows them by 15% for 1s.",
+    "story": "The toughest and most fealess knight of the Moniyan Empire once used it to overpower his enemies with an unyielding will to fight.",
+    "overview": "Damage Reflection",
+    "tips": "Best equipped by Tanks to fight enemy Marksmen that have great Attack Speed.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 80
+      },
+      {
+        "key": "PercentCritDamageReduction",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "id": "bladeofdespair",
+    "name": "Blade of Despair",
+    "type": "Attack",
+    "price": 3010,
+    "upgraded_price": 1190,
+    "level": 3,
+    "build_from": "legionsword,legionsword",
+    "build_into": null,
+    "description": "Unique Passive - Despair: Dealing damage to non-Minion enemies below 50% HP increases Physical Attack by 25% for 2 seconds (takes effect before the damage is dealt).",
+    "story": "The most fearsome fighters have their own demons to face, and so the sharpest blades in their hands speak their deepset despair.",
+    "overview": "Highest Physical Attack",
+    "tips": "Best equipped by Physical heroes to greatly increase their Physical Attack attributes in the late game.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 160
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "bladeoftheheptaseas",
+    "name": "Blade of the Heptaseas",
+    "type": "Attack",
+    "price": 1950,
+    "upgraded_price": 470,
+    "level": 3,
+    "build_from": "furyhammer,ogretomahawk",
+    "build_into": null,
+    "description": "Unique Attribute: +15 Physical Penetration<br>Unique Passive - Ambush: If no damage is taken or dealt within 5 seconds (excluding from Minions or Creeps), the next Basic Attack will deal an additional 160 <scaleAD>(+40% Total Physical Attack)</scaleAD> Physical Damage and slow the target by 40% for 1.5 seconds.",
+    "story": "The blade that cuts bones like butter was once lost with the Frozen King in the deep sea. Now it waits for the right moment to awaken its power.",
+    "overview": "Best for Assassins",
+    "tips": "Best equipped by Physical Assassins that need to deal more damage and increase Crowd Control abilities.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 70
+      },
+      {
+        "key": "FlatHealth",
+        "value": 250
+      },
+      {
+        "key": "FlatPhysicalPenetration",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "bloodwings",
+    "name": "Blood Wings",
+    "type": "Magic",
+    "price": 2100,
+    "upgraded_price": 460,
+    "level": 3,
+    "build_from": "magicwand,magicwand",
+    "build_into": null,
+    "description": "Unique Passive - Guard: Gains a 800 <scaleAP>(+100% Total Magic Power)</scaleAP> Shield that will regenerate 20 seconds after being damaged. The Shield also grants 30 Movement Speed while it lasts and 150 Movement Speed for 1 second after it breaks.",
+    "story": "The crimson red dyed the spotless white feather, as if the brutal past of the Askati Forest was buried within it.",
+    "overview": "Speed Boost Shield",
+    "tips": "Final equipment for Magic heroes in the late game.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 90
+      }
+    ]
+  },
+  {
+    "id": "bloodyretribution",
+    "name": "Bloody Retribution",
+    "type": "Jungle",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": "behemothhuntersarcaneboots,behemothhuntersdemonboots,behemothhuntersmagicboots,behemothhuntersrapidboots,behemothhuntersswiftboots,behemothhunterstoughboots,behemothhunterswarriorboots",
+    "description": "Active: Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals <highlight>HP</highlight> equal to 300 plus 24% of the caster's extra HP from them for 3s.<br><br><physicalDamage>Retribution is upgraded</physicalDamage> <highlight>when the total number of creep kills, hero kills, and assists reaches 5.</highlight>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "bookofsages",
+    "name": "Book of Sages",
+    "type": "Magic",
+    "price": 450,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "flaskoftheoasis,clockofdestiny,tomeofevil,lightningtruncheon,featherofheaven,wishinglantern,starliumscythe",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 8
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "boots",
+    "name": "Boots",
+    "type": "Movement",
+    "price": 250,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "rapidboots,arcaneboots,demonboots,warriorboots,magicboots,swiftboots,toughboots",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "brokenheart",
+    "name": "Broken Heart",
+    "type": "Movement",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": null,
+    "description": "Unique Passive - Heart Broken: Become immune to allied Cecilion's Moonlit Waltz in this match.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "bruteforcebreastplate",
+    "name": "Brute Force Breastplate",
+    "type": "Defense",
+    "price": 2070,
+    "upgraded_price": 700,
+    "level": 3,
+    "build_from": "aresbelt,herosring,leatherjerkin",
+    "build_into": null,
+    "description": "Unique Passive - Brute Force: Each second after dealing damage, gain 8 extra Adaptive Attack and 2% extra Movement Speed for 4 seconds, up to 6 stacks. Gain 25% extra Control Duration Reduction at full stacks.",
+    "story": "The people of the Northern Vale always find their own way. Lacking power? Grab a stronger weapon! Lacking in defense? Grab a stronger armor!",
+    "overview": "Attack, Speed Up, CC Reduction",
+    "tips": "Best equipped by Fighters that need good sustainability.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 800
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 20
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": "chastisepauldron",
+    "name": "Chastise Pauldron",
+    "type": "Defense",
+    "price": 2100,
+    "upgraded_price": 770,
+    "level": 3,
+    "build_from": "steellegplates,aresbelt",
+    "build_into": null,
+    "description": "Unique Passive - Chastise: Taking damage will reduce the Attack Speed and Attack Speed cap of the attacker to 75% of normal for 2 seconds.<br>Unique Passive - Redemption: When incoming damage reduces HP below 30%, recover 20% Max HP over the next 2 seconds. This effect has a 60 seconds cooldown.",
+    "story": "In the western reaches of Land of Dawn amidst the Misty Mountains, a centaur guardian dons the sacred pauldron to punish any enemy who dares to invade.",
+    "overview": "Reduces Enemy Attack Speed",
+    "tips": "Ideal for countering heroes with high Attack Speed",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 900
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "clockofdestiny",
+    "name": "Clock of Destiny",
+    "type": "Magic",
+    "price": 2030,
+    "upgraded_price": 430,
+    "level": 3,
+    "build_from": "elegantgem,bookofsages,bookofsages",
+    "build_into": null,
+    "description": "Unique Passive - Destiny: Gains 4.5(+0.5*Hero Level) Hybrid Defense for 5 seconds when dealing Magic Damage to enemy heroes, stacking up to 6 times (can gain 1 stack every 0.4 second).<br>Unique Passive - Gift: When HP drops below 50%, recovers 15% of HP over the next 3 seconds. When Mana drops below 50%, restores 15% of Mana over the next 3 seconds. Cooldown: 60 seconds.",
+    "story": "Eruditio's latest product creatively combines Starlium with magic and time, providing a variety of enhancements to power and growth.",
+    "overview": "For Magic Tanks",
+    "tips": "Best equipped by Magic Tanks to increase their laning sustainability and durability.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMana",
+        "value": 400
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 400
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 45
+      }
+    ]
+  },
+  {
+    "id": "concentratedenergy",
+    "name": "Concentrated Energy",
+    "type": "Magic",
+    "price": 2020,
+    "upgraded_price": 400,
+    "level": 3,
+    "build_from": "mysticcontainer,magicwand,vitalitycrystal",
+    "build_into": null,
+    "description": "Unique Attribute: +20% Hybrid Lifesteal<br>Unique Passive - Recharge: Increases Magic Power by 5 after dealing Magic Damage (this effect stacks up to 6 times and can only gain 1 stack every 0.4 second). When reaching full stacks, increases Magic Damage by 12% for 5 seconds.",
+    "story": "Inspired by the explosion of the Infinite Gateway, it was invented by scientists according to the condensation and amplification trajectories of energies.",
+    "overview": "Continuous Damage Boost",
+    "tips": "Best equipped by Magic heroes to increase their sustainability when dealing high damage.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 400
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 75
+      },
+      {
+        "key": "PercentHybridLifeSteal",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "id": "corrosionscythe",
+    "name": "Corrosion Scythe",
+    "type": "Attack",
+    "price": 2050,
+    "upgraded_price": 450,
+    "level": 3,
+    "build_from": "swiftcrossbow,regularspear",
+    "build_into": null,
+    "description": "Unique Passive - Corrosive: Basic Attacks gain 80 extra Physical Damage and slow the target by 8% (halved for ranged Basic Attacks) for 1.5 seconds. Stacks up to 5 times.<br>Unique Passive - Impulse: Basic Attacks grant 6% extra Attack Speed for 3 seconds, capped at 5 stacks.",
+    "story": "Those who live upon this land have never ceased fighting, but the fiercest struggles always stem from the fear of death.",
+    "overview": "One-Hit Slow",
+    "tips": "Best equipped by heroes that especially rely on Attack Speed and excel at picking off lone enemies.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 30
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.3
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "cursedhelmet",
+    "name": "Cursed Helmet",
+    "type": "Defense",
+    "price": 1910,
+    "upgraded_price": 190,
+    "level": 3,
+    "build_from": "moltenessence,aresbelt,magicresistcloak",
+    "build_into": null,
+    "description": "Unique Passive - Burning Soul: Deals <scaleHP>(1.2% Total HP)</scaleHP> Magic Damage to nearby enemies per second. This damage is increased by 125(+15*Hero Level)% against creeps and minions.<br>Unique Passive - Curse: Dealing damage with Burning Soul will reduce the target's Hybrid Defense by 3 for 3 seconds. Stacks up to 3 times.",
+    "story": "An altered nature lies dormant within the Blood Demons, turning into loneliness during the long nights. It is a curse that keeps them in limbo between Light and Dark.",
+    "overview": "Survivability & Lane Clearing",
+    "tips": "Best equipped by Tanks to increase their damage or lane clearing abilities.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 1200
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "dagger",
+    "name": "Dagger",
+    "type": "Attack",
+    "price": 250,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "goldenstaff,hunterstrike,regularspear,legionsword,haasclaws,magicblade,ogretomahawk,furyhammer",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "demonboots",
+    "name": "Demon Boots",
+    "type": "Movement",
+    "price": 720,
+    "upgraded_price": 230,
+    "level": 3,
+    "build_from": "boots,magicnecklace,magicnecklace",
+    "build_into": "demonbootsconceal,demonbootsdirehit,demonbootsencourage,demonbootsfavor,icehuntersdemonboots,flamehuntersdemonboots,behemothhuntersdemonboots",
+    "description": "Unique Passive - Mysticism: Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2 seconds after taking damage from the hero.)",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": "Quick Mana Regen",
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatManaRegen",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "id": "demonbootsconceal",
+    "name": "Demon Boots - Conceal",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 230,
+    "level": 3,
+    "build_from": "demonboots,activeconceal",
+    "build_into": null,
+    "description": "<unique>Blessed: Active - Conceal</unique><br>Unique Passive - Mysticism: Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2s after taking damage from the hero.)<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatManaRegen",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "id": "demonbootsdirehit",
+    "name": "Demon Boots - Dire Hit",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 230,
+    "level": 3,
+    "build_from": "demonboots,passivedirehit",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Dire Hit</unique><br>Unique Passive - Mysticism: Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2s after taking damage from the hero.)<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatManaRegen",
+        "value": 10
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "demonbootsencourage",
+    "name": "Demon Boots - Encourage",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 230,
+    "level": 3,
+    "build_from": "demonboots,passiveencourage",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Encourage</unique><br>Unique Passive - Mysticism: Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2s after taking damage from the hero.)<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatManaRegen",
+        "value": 10
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "demonbootsfavor",
+    "name": "Demon Boots - Favor",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 230,
+    "level": 3,
+    "build_from": "demonboots,passivefavor",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Favor</unique><br>Unique Passive - Mysticism: Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2s after taking damage from the hero.)<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatManaRegen",
+        "value": 10
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "demonhuntersword",
+    "name": "Demon Hunter Sword",
+    "type": "Attack",
+    "price": 2180,
+    "upgraded_price": 900,
+    "level": 3,
+    "build_from": "regularspear,vampiremallet,knife",
+    "build_into": null,
+    "description": "Unique Passive - Engulf: Basic Attacks deal 8% of the target's current HP as extra physical damage (capped at 60 against minions).<br>Unique Passive - Devour: Each Basic Attack recovers 10 (+4*Hero Level) HP. This effect is halved against minions.",
+    "story": "A blade with its core carved from the bones of an Iceland Golem, the power that resides within almost seems to impart the fierce history of those giants in the time before they were slain.",
+    "overview": "Tank Killer",
+    "tips": "Best equipped to fight Tanks. Can also be equipped by heroes that have great Attack Speed or can trigger the effect of their Basic Attack multiple times.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 35
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "id": "divineglaive",
+    "name": "Divine Glaive",
+    "type": "Magic",
+    "price": 1970,
+    "upgraded_price": 1150,
+    "level": 3,
+    "build_from": "magicwand",
+    "build_into": null,
+    "description": "Unique Attribute: +40% Magic Penetration<br>Unique Passive - Spellbreaker: When attacking an enemy, gains 0.1% extra Magic Penetration for each point of the enemy's Magic Defense, capped at 20%.",
+    "story": "In a past battle between the Elves and the Moniyan Empire, the ancestors of House Alvin used this blade to break through the Elves' defenses and achieve victory.",
+    "overview": "Magic Penetration",
+    "tips": "Best equipped by Magic DPS heroes to counter enemy heroes that have high Defense abilities in the late game.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 60
+      },
+      {
+        "key": "PercentMagicPenetration",
+        "value": 0.4
+      }
+    ]
+  },
+  {
+    "id": "dominanceice",
+    "name": "Dominance Ice",
+    "type": "Defense",
+    "price": 2010,
+    "upgraded_price": 600,
+    "level": 3,
+    "build_from": "blackiceshield,leatherjerkin,magicresistcloak",
+    "build_into": null,
+    "description": "Unique Passive - Fortress Shield: For each enemy hero within 5 units, Physical & Magic Defense is increased by 8, up to 40.<br>Unique Passive - Lifebane: Reduces shield and HP Regen of nearby enemies within 5 units to 60% of normal for 1s.",
+    "story": "A shield kept in Swan Castle that symbolizes the gallant past of Prince Alvin, who gave up his throne for love.",
+    "overview": "Healing Reduction",
+    "tips": "Best equipped by Tanks to reduce enemies' Regen effects (Heal, Shields or Lifesteal).",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 40
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "dreadnaughtarmor",
+    "name": "Dreadnaught Armor",
+    "type": "Defense",
+    "price": 730,
+    "upgraded_price": 290,
+    "level": 2,
+    "build_from": "leatherjerkin,leatherjerkin",
+    "build_into": "antiquecuirass",
+    "description": "Unique Passive - Deter: When hit by a skill, reduces the attacker's Physical Damage by 4% for 2 seconds (this effect stacks up to 3 times).",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 30
+      }
+    ]
+  },
+  {
+    "id": "elegantgem",
+    "name": "Elegant Gem",
+    "type": "Magic",
+    "price": 700,
+    "upgraded_price": 180,
+    "level": 2,
+    "build_from": "powercrystal,vitalitycrystal",
+    "build_into": "clockofdestiny",
+    "description": "Unique Passive - Gift: When HP drops below 50%, recovers 15% of HP over the next 3 seconds. When Mana drops below 50%, restores 15% of Mana over the next 3 seconds. Cooldown: 60 seconds.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 300
+      },
+      {
+        "key": "FlatMana",
+        "value": 380
+      }
+    ]
+  },
+  {
+    "id": "enchantedtalisman",
+    "name": "Enchanted Talisman",
+    "type": "Magic",
+    "price": 2070,
+    "upgraded_price": 180,
+    "level": 3,
+    "build_from": "tomeofevil,magicnecklace,magicwand",
+    "build_into": null,
+    "description": "Unique Passive - Mana Spring: Regenerates 15% Max Mana every 10 seconds.<br>Unique Passive - Magic Mastery: Max Cooldown Reduction is increased by 5%.",
+    "story": "Inspired by a basic course at the Magic Academy that makes Mana flow in cycles, it now possesses an endless source of power after some modifications by a certain black magician. As for the price it costs...",
+    "overview": "Mana Regen & CD Reduction",
+    "tips": "Best equipped by Mage or Support heroes that especially rely on cooldown reduction or Mana Regen.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 75
+      },
+      {
+        "key": "FlatHealth",
+        "value": 300
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "endlessbattle",
+    "name": "Endless Battle",
+    "type": "Attack",
+    "price": 2330,
+    "upgraded_price": 630,
+    "level": 3,
+    "build_from": "azureblade,ironhuntingbow,ogretomahawk",
+    "build_into": null,
+    "description": "Unique Passive - Divine Justice: After casting a skill, the next Basic Attack within 3 seconds deals <scaleAD>(60% Total Physical Attack)</scaleAD> extra True Damage and recovers 80 <scaleAD>(+40% Total Physical Attack)</scaleAD> HP (1.5 seconds cooldown).",
+    "story": "War has never ceased in the Land of Dawn: the Endless War, the unification of the Moniyan Empire, the Conflicts in the North... The artifact has witness every struggle for survival for centuries.",
+    "overview": "Enhanced Basic Attacks",
+    "tips": "Best equipped by Physical heroes that add Basic Attacks in between each skill cast.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 60
+      },
+      {
+        "key": "FlatHealth",
+        "value": 250
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.05
+      },
+      {
+        "key": "FlatManaRegen",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "exoticveil",
+    "name": "Exotic Veil",
+    "type": "Magic",
+    "price": 600,
+    "upgraded_price": 300,
+    "level": 2,
+    "build_from": "mysterycodex",
+    "build_into": "geniuswand,icequeenwand,glowingwand",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 30
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "expertgloves",
+    "name": "Expert Gloves",
+    "type": "Attack,Magic",
+    "price": 500,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "wintercrown,fleetingtime,skypiercer,queenswings",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 30
+      }
+    ]
+  },
+  {
+    "id": "featherofheaven",
+    "name": "Feather of Heaven",
+    "type": "Magic",
+    "price": 2030,
+    "upgraded_price": 580,
+    "level": 3,
+    "build_from": "swiftcrossbow,bookofsages",
+    "build_into": null,
+    "description": "Unique Passive - Affliction: Each Basic Attack deals extra 50 <scaleAP>(+30% Total Magic Power)</scaleAP> Magic Damage.<br>Unique Passive - Impulse: Basic Attacks grant 6% extra Attack Speed for 3 seconds, capped at 5 stacks.",
+    "story": "A feather fell softly to the ground as the Sacrists from the Monastery of Light greeted the created angel in the name of the Lord of Light.",
+    "overview": "Magic Basic Attacks",
+    "tips": "Best equipped by Magic DPS heroes whose Basic Attacks have special effects.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.2
+      },
+      {
+        "key": "PercentLifeSteal",
+        "value": 0.1
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.05
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 60
+      }
+    ]
+  },
+  {
+    "id": "flamehuntersarcaneboots",
+    "name": "Flame Hunter's Arcane Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 170,
+    "level": 3,
+    "build_from": "arcaneboots,flameretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Flame Retribution</unique><br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicPenetration",
+        "value": 10
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "flamehuntersdemonboots",
+    "name": "Flame Hunter's Demon Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 230,
+    "level": 3,
+    "build_from": "demonboots,flameretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Flame Retribution</unique><br>Unique Passive - Mysticism: Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2s after taking damage from the hero.)<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatManaRegen",
+        "value": 10
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "flamehuntersmagicboots",
+    "name": "Flame Hunter's Magic Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 20,
+    "level": 3,
+    "build_from": "magicboots,flameretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Flame Retribution</unique><br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "flamehuntersrapidboots",
+    "name": "Flame Hunter's Rapid Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 220,
+    "level": 3,
+    "build_from": "rapidboots,flameretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Flame Retribution</unique><br>Unique Passive - Side Effect: Loses 20 Movement Speed for 5s upon dealing or taking damage.<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 65
+      },
+      {
+        "key": "PercentSlowReduction",
+        "value": 0.35
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "id": "flamehuntersswiftboots",
+    "name": "Flame Hunter's Swift Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 190,
+    "level": 3,
+    "build_from": "swiftboots,flameretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Flame Retribution</unique><br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "flamehunterstoughboots",
+    "name": "Flame Hunter's Tough Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "toughboots,flameretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Flame Retribution</unique><br>Unique Passive - Fortitude: CC and Slow Duration reduced by 25%.<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 18
+      },
+      {
+        "key": "PercentTenacity",
+        "value": 0.25
+      }
+    ]
+  },
+  {
+    "id": "flamehunterswarriorboots",
+    "name": "Flame Hunter's Warrior Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "warriorboots,flameretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Flame Retribution</unique><br>Unique Passive - Valor: Gain 4 extra Physical Defense for 3s when taking Physical Damage, up to 20.<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": "flameretribution",
+    "name": "Flame Retribution",
+    "type": "Jungle",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": "flamehuntersarcaneboots,flamehuntersdemonboots,flamehuntersmagicboots,flamehuntersrapidboots,flamehuntersswiftboots,flamehunterstoughboots,flamehunterswarriorboots",
+    "description": "Active: Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 71-120 <highlight>Physical Attack and Magic Power</highlight> (scales with level) from them for 3s.<br><br><physicalDamage>Retribution is upgraded</physicalDamage> <highlight>when the total number of creep kills, hero kills, and assists reaches 5.</highlight>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "flaskoftheoasis",
+    "name": "Flask of the Oasis",
+    "type": "Magic",
+    "price": 1850,
+    "upgraded_price": 280,
+    "level": 3,
+    "build_from": "magicwand,bookofsages,vitalitycrystal",
+    "build_into": null,
+    "description": "Unique Attribute: +12% Healing Effect<br>Unique Passive - Blessing: When casting a healing or shield skill, if the target's HP is below 35%, or falls below 35% within 3 seconds, they will get a (100*Hero Level) shield that lasts 3 seconds. When this effect triggers, it also reduces the cooldown of the caster's skills by 2 seconds.\r\n<diminish>This effect can only trigger once every 60 seconds on the same target, and will not trigger on self-only healing and shield skills</diminish>.",
+    "story": "Mages mimicked the magic of the Oasis, hoping to protect more people with the power of the martyr.",
+    "overview": "Protect Teammates",
+    "tips": "Suitable for heroes with healing or shielding skills to support teammates.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 60
+      },
+      {
+        "key": "FlatHealth",
+        "value": 300
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "PercentHealingEffect",
+        "value": 0.12
+      }
+    ]
+  },
+  {
+    "id": "fleetingtime",
+    "name": "Fleeting Time",
+    "type": "Attack,Magic,Defense",
+    "price": 2050,
+    "upgraded_price": 650,
+    "level": 3,
+    "build_from": "herosring,herosring,expertgloves",
+    "build_into": null,
+    "description": "Unique Passive - Timestream: Hero kills or assists reduce the Ultimate's current cooldown by 30%.",
+    "story": "A precious artifact kept in the private room of an envoy of the Monastery of Light. The envoy often gazes upon it with longing, as if reminiscing about her brother in Abyss and a broken memory.",
+    "overview": "Ultimate CD Reduction",
+    "tips": "Best equipped by heroes who rely heavily on Ultimates.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 30
+      },
+      {
+        "key": "FlatHealth",
+        "value": 600
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "flowerofhope",
+    "name": "Flower of Hope",
+    "type": "Magic",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": null,
+    "description": "Unique Passive - Flower of Hope: Every 6 seconds, the next skill or Basic Attack deals an additional 100 (+40% Total Physical Attack) (+30% Total Magic Power) Magic Damage.",
+    "story": "The equipment that Floryn shares with her teammates takes no equipment slot",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "furyhammer",
+    "name": "Fury Hammer",
+    "type": "Attack",
+    "price": 830,
+    "upgraded_price": 580,
+    "level": 2,
+    "build_from": "dagger",
+    "build_into": "bladeoftheheptaseas,maleficgun,hunterstrike",
+    "description": "Unique Attribute: +12 Physical Penetration",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 35
+      },
+      {
+        "key": "FlatPhysicalPenetration",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "id": "geniuswand",
+    "name": "Genius Wand",
+    "type": "Magic",
+    "price": 2000,
+    "upgraded_price": 580,
+    "level": 3,
+    "build_from": "exoticveil,magicwand",
+    "build_into": null,
+    "description": "Unique Attribute: +10 Magic Penetration<br>Unique Passive - Magic: Dealing Magic Damage to enemy heroes will reduce their Magic Defense by 3+(0.3*Hero Level) for 2 seconds. Stacks up to 3 times.",
+    "story": "A product of Ursula's random experiment, later granted to a certain promising young magician by the Magic Academy.",
+    "overview": "Magic Defense Reduction",
+    "tips": "Best equipped by Magic heroes that deal multi-stage damage to greatly increase their damage.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 75
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.05
+      },
+      {
+        "key": "FlatMagicPenetration",
+        "value": 10
+      }
+    ]
+  },
+  {
+    "id": "glowingwand",
+    "name": "Glowing Wand",
+    "type": "Magic",
+    "price": 2050,
+    "upgraded_price": 850,
+    "level": 3,
+    "build_from": "exoticveil,mysterycodex,vitalitycrystal",
+    "build_into": null,
+    "description": "Unique Passive - Scorch: Dealing Magic Damage burns the targets for 3 seconds, also dealing extra Magic Damage equal to 1% of the target's Max HP per second.<br>Unique Passive - Lifebane: Dealing damage to the target will reduce the Shield and HP Regen effects on them to 60% of normal for 3 seconds.",
+    "story": "A magic staff that was long lost after the Battle of the Fire Throat now returns with the Son of Flames. The magic that flows through it is madness burning in flames.",
+    "overview": "Healing Reduction",
+    "tips": "Best equipped by Magic heroes to reduce enemies' Regen effects (Heal, Shields, or Lifesteal)",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.05
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 60
+      },
+      {
+        "key": "FlatHealth",
+        "value": 300
+      }
+    ]
+  },
+  {
+    "id": "goldenstaff",
+    "name": "Golden Staff",
+    "type": "Attack",
+    "price": 2000,
+    "upgraded_price": 900,
+    "level": 3,
+    "build_from": "regularspear,dagger,dagger",
+    "build_into": null,
+    "description": "Unique Passive - Swift: Every 1% extra Crit Chance gained is converted into 1% extra Attack Speed.<br>Unique Passive - Endless Strike: After every 2 non-Crit Basic Attacks, the Attack Speed of the next Basic Attack is increased by 80% (and Attack Speed cap is increased to 500%) and triggers Attack Effects an additional 2 time(s).",
+    "story": "\"How can I be invincible?\" A young panda warrior once asked his mentor, the immortal monkey. The monkey answered nothing, only waving his staff impatiently, causing a storm in an instant.",
+    "overview": "Enhance Attack Effects",
+    "tips": "Best equipped by heroes whose Basic Attacks have special effects. Can also be equipped with Demon Hunter Sword, Feather of Heaven and other equipment.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 55
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "greatdragonspear",
+    "name": "Great Dragon Spear",
+    "type": "Attack",
+    "price": 2140,
+    "upgraded_price": 460,
+    "level": 3,
+    "build_from": "legionsword,ironhuntingbow,javelin",
+    "build_into": null,
+    "description": "Unique Passive - Supreme Warrior: After casting an Ultimate, increase Movement Speed by 30% for 7.5 seconds. This effect has a 15 seconds cooldown.",
+    "story": "The treasure of the Dragon Altar symbolizes power and responsibility, passing on the never-ending legacy of the Cadia Riverlands.",
+    "overview": "CD Reduction & Crit",
+    "tips": "Suitable for heroes relying on Crit Chance and CD Reduction to improve mobility.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 70
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "PercentCritChance",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "id": "guardianhelmet",
+    "name": "Guardian Helmet",
+    "type": "Defense",
+    "price": 2500,
+    "upgraded_price": 400,
+    "level": 3,
+    "build_from": "aresbelt,aresbelt,aresbelt",
+    "build_into": null,
+    "description": "Unique Passive - Recovery: After 5s out of combat, recover <scaleHP>(2.5% Total HP)</scaleHP> HP per second.<br>Unique Passive - Defender: Upon taking more than 500 damage in a single instance, the excess damage beyond that amount is reduced by 30 <scaleHP>(0.3% Total HP)</scaleHP>%.",
+    "story": "Blessed by the Elves as they fought side-by-side with humans, the armor possesses an extraordinary healing power.",
+    "overview": "Constant HP Regen",
+    "tips": "Best equipped by heroes that rely extremely on HP. Can also be equipped by Tanks that re-enter the battlefield after taking a round of damage.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 1800
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "haasclaws",
+    "name": "Haas' Claws",
+    "type": "Attack",
+    "price": 2020,
+    "upgraded_price": 470,
+    "level": 3,
+    "build_from": "vampiremallet,roguemeteor,dagger",
+    "build_into": null,
+    "description": "Unique Attribute: +20% Lifesteal\nUnique Passive - Frenzy: Critical strikes grant 20% extra Attack Speed for 2 seconds.",
+    "story": "Those who lost the war were banished to the Abyss with an insatiable hunger for the blood that represents power. Haas was the first to succumb to his desire when he bowed to the Queen.",
+    "overview": "Lifesteal",
+    "tips": "Best equipped by Marksmen or Fighters that rely on Basic Attacks to increase their sustainability when dealing high damage.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      },
+      {
+        "key": "PercentCritChance",
+        "value": 0.2
+      },
+      {
+        "key": "PercentLifeSteal",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "id": "healingnecklace",
+    "name": "Healing Necklace",
+    "type": "Defense",
+    "price": 140,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "radiantarmor,rapidboots",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealthRegen",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "id": "herosring",
+    "name": "Hero's Ring",
+    "type": "Defense",
+    "price": 450,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "oracle,queenswings,bruteforcebreastplate,waraxe,wintercrown,fleetingtime,magicboots",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 150
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "holycrystal",
+    "name": "Holy Crystal",
+    "type": "Magic",
+    "price": 3000,
+    "upgraded_price": 540,
+    "level": 3,
+    "build_from": "magicwand,magicwand,magicwand",
+    "build_into": null,
+    "description": "Unique Passive - Mystery: Gains 21%-35% extra Magic Power (scales with level).",
+    "story": "A touchstone in the Magic Academy, the Holy Crystal, tests each student's talent in magic, but of course the first scholar ever failed the test.",
+    "overview": "Max Magic Power",
+    "tips": "Best equipped by Magic heroes to greatly increase their Magic Power attributes in the mid and late game.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 165
+      }
+    ]
+  },
+  {
+    "id": "hunterstrike",
+    "name": "Hunter Strike",
+    "type": "Attack",
+    "price": 2010,
+    "upgraded_price": 480,
+    "level": 3,
+    "build_from": "furyhammer,ironhuntingbow,dagger",
+    "build_into": null,
+    "description": "Unique Attribute: +15 Physical Penetration.<br>Unique Passive - Retribution: Dealing damage to the same enemy hero or creep 5 times in a row grants 50% extra Movement Speed that decays over 3 seconds (8 seconds cooldown).",
+    "story": "The hunters of Megalith Wasteland believe that the hunt should take place in the blink of an eye.",
+    "overview": "Brief Speed-Up",
+    "tips": "Best equipped by Physical Assassins that need to deal more damage and increase mobility.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 80
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatPhysicalPenetration",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "icehuntersarcaneboots",
+    "name": "Ice Hunter's Arcane Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 170,
+    "level": 3,
+    "build_from": "arcaneboots,iceretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Ice Retribution</unique><br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMagicPenetration",
+        "value": 10
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "icehuntersdemonboots",
+    "name": "Ice Hunter's Demon Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 230,
+    "level": 3,
+    "build_from": "demonboots,iceretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Ice Retribution</unique><br>Unique Passive - Mysticism: Getting a kill or assist on an enemy Minion will restore 4% Mana. (An assist occurs when a Minion dies within 2s after taking damage from the hero.)<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatManaRegen",
+        "value": 10
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "icehuntersmagicboots",
+    "name": "Ice Hunter's Magic Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 20,
+    "level": 3,
+    "build_from": "magicboots,iceretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Ice Retribution</unique><br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "icehuntersrapidboots",
+    "name": "Ice Hunter's Rapid Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 220,
+    "level": 3,
+    "build_from": "rapidboots,iceretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Ice Retribution</unique><br>Unique Passive - Side Effect: Loses 20 Movement Speed for 5s upon dealing or taking damage.<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 65
+      },
+      {
+        "key": "PercentSlowReduction",
+        "value": 0.35
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "id": "icehuntersswiftboots",
+    "name": "Ice Hunter's Swift Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 190,
+    "level": 3,
+    "build_from": "swiftboots,iceretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Ice Retribution</unique><br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "icehunterstoughboots",
+    "name": "Ice Hunter's Tough Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "toughboots,iceretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Ice Retribution</unique><br>Unique Passive - Fortitude: CC and Slow Duration reduced by 25%.<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 18
+      },
+      {
+        "key": "PercentTenacity",
+        "value": 0.25
+      }
+    ]
+  },
+  {
+    "id": "icehunterswarriorboots",
+    "name": "Ice Hunter's Warrior Boots",
+    "type": "Jungle",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "warriorboots,iceretribution",
+    "build_into": null,
+    "description": "<unique>Blessed: Ice Retribution</unique><br>Unique Passive - Valor: Gain 4 extra Physical Defense for 3s when taking Physical Damage, up to 20.<br>Unique Passive - Hunter: After dealing damage to a Creep, deal 40(+3*Hero Level) + (1% Total HP) True Damage to the target over 3s (damage is increased by 100% for non-Marksmen heroes).",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": "icequeenwand",
+    "name": "Ice Queen Wand",
+    "type": "Magic",
+    "price": 2040,
+    "upgraded_price": 640,
+    "level": 3,
+    "build_from": "mysticcontainer,exoticveil,mysterycodex",
+    "build_into": null,
+    "description": "Unique Passive - Ice Bound: When a skill deals damage to an enemy hero, it will also slow them by 10% for 2 seconds (stacks up to 3 times). This effect has a 0.4 second cooldown.",
+    "story": "What is eternity? The deities replied, \"Look, the falling snow and whispering glacier.\" All of these are the grace and blessings of the Maiden of the Glacier.",
+    "overview": "Slow on Skill Hit",
+    "tips": "Best equipped by Magic heroes to increase their Crowd Control abilities.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentSpellVamp",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 300
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.07
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 60
+      }
+    ]
+  },
+  {
+    "id": "iceretribution",
+    "name": "Ice Retribution",
+    "type": "Jungle",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": "icehuntersarcaneboots,icehuntersdemonboots,icehuntersmagicboots,icehuntersrapidboots,icehuntersswiftboots,icehunterstoughboots,icehunterswarriorboots",
+    "description": "Active: Retribution's damage against creeps and minions is increased to 150%. When cast on an enemy hero, deals them 100 True Damage and steals 52-80 <highlight>Movement Speed</highlight> (scales with level) from them for 3s.<br><br><physicalDamage>Retribution is upgraded</physicalDamage> <highlight>when the total number of creep kills, hero kills, and assists reaches 5.</highlight>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "immortality",
+    "name": "Immortality",
+    "type": "Defense",
+    "price": 2120,
+    "upgraded_price": 900,
+    "level": 3,
+    "build_from": "aresbelt,vitalitycrystal,leatherjerkin",
+    "build_into": null,
+    "description": "Unique Passive - Immortal: Resurrect 2.5 seconds upon death and gets 16% HP and a shield that can absorb 150(+70*Hero Level）damage. Shield lasts 3 seconds. This effect has a 210 seconds cooldown.",
+    "story": "After a thousand years of living with courage as their spear and emotions as their shield, humans finally learn that immortality is not in time, but in honor and achievement.",
+    "overview": "Resurrection",
+    "tips": "Common equipment that allows a larger margin of error in the late game.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 850
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "ironhuntingbow",
+    "name": "Iron Hunting Bow",
+    "type": "Attack",
+    "price": 450,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "waraxe,greatdragonspear,endlessbattle,hunterstrike",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 10
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "javelin",
+    "name": "Javelin",
+    "type": "Attack",
+    "price": 320,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "greatdragonspear,roguemeteor,berserkersfury",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentCritChance",
+        "value": 0.08
+      }
+    ]
+  },
+  {
+    "id": "knife",
+    "name": "Knife",
+    "type": "Attack",
+    "price": 280,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "roguemeteor,rosegoldmeteor,regularspear,windtalker,swiftboots,maleficgun,swiftcrossbow,demonhuntersword",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": "lanternofhope",
+    "name": "Lantern of Hope",
+    "type": "Magic",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": null,
+    "description": "Unique Passive - Lantern of Hope: The equipment's attributes scale with hero level.",
+    "story": "Floryn's default equipment takes one equipment slot.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 20
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.04
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.02
+      }
+    ]
+  },
+  {
+    "id": "leatherjerkin",
+    "name": "Leather Jerkin",
+    "type": "Defense",
+    "price": 220,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "bladearmor,thunderbelt,steellegplates,dreadnaughtarmor,bruteforcebreastplate,blackiceshield,immortality,warriorboots,dominanceice",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 14
+      }
+    ]
+  },
+  {
+    "id": "legionsword",
+    "name": "Legion Sword",
+    "type": "Attack",
+    "price": 910,
+    "upgraded_price": 410,
+    "level": 2,
+    "build_from": "dagger,dagger",
+    "build_into": "greatdragonspear,seahalberd,maleficroar,bladeofdespair,berserkersfury",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 60
+      }
+    ]
+  },
+  {
+    "id": "lightningtruncheon",
+    "name": "Lightning Truncheon",
+    "type": "Magic",
+    "price": 2250,
+    "upgraded_price": 760,
+    "level": 3,
+    "build_from": "magicwand,bookofsages,powercrystal",
+    "build_into": null,
+    "description": "Unique Passive - Resonate: Every 6 seconds, the next skill echoes, dealing 170 <scaleAP>(+85% Total Magic Power)</scaleAP> extra Magic Damage to all enemies in range.",
+    "story": "Inspired by the silver-haired Elf girl who sealed the thunderbolts at the Magic Academy, the staff is a mighty menace with the power of thunder surging around it.",
+    "overview": "Splash Damage",
+    "tips": "Best equipped by Magic heroes to increase burst damage.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 75
+      },
+      {
+        "key": "FlatMana",
+        "value": 400
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": "magicblade",
+    "name": "Magic Blade",
+    "type": "Attack",
+    "price": 1050,
+    "upgraded_price": 400,
+    "level": 2,
+    "build_from": "dagger,vampiremallet",
+    "build_into": "rosegoldmeteor",
+    "description": "Unique Passive - Lifeline: When taking damage that reduces HP below 30%, gains a (+60*Hero Level) shield and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60 seconds cooldown.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": "Best equipped by Physical DPS heroes to defend against Magic Burst damage.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 35
+      },
+      {
+        "key": "PercentLifeSteal",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": "magicboots",
+    "name": "Magic Boots",
+    "type": "Movement",
+    "price": 720,
+    "upgraded_price": 20,
+    "level": 3,
+    "build_from": "boots,herosring",
+    "build_into": "magicbootsconceal,magicbootsdirehit,magicbootsencourage,magicbootsfavor,icehuntersmagicboots,flamehuntersmagicboots,behemothhuntersmagicboots",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": "CD Reduction",
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "magicbootsconceal",
+    "name": "Magic Boots - Conceal",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 20,
+    "level": 3,
+    "build_from": "magicboots,activeconceal",
+    "build_into": null,
+    "description": "<unique>Blessed: Active - Conceal</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "magicbootsdirehit",
+    "name": "Magic Boots - Dire Hit",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 20,
+    "level": 3,
+    "build_from": "magicboots,passivedirehit",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Dire Hit</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "magicbootsencourage",
+    "name": "Magic Boots - Encourage",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 20,
+    "level": 3,
+    "build_from": "magicboots,passiveencourage",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Encourage</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "magicbootsfavor",
+    "name": "Magic Boots - Favor",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 20,
+    "level": 3,
+    "build_from": "magicboots,passivefavor",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Favor</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatHealth",
+        "value": 150
+      }
+    ]
+  },
+  {
+    "id": "magicnecklace",
+    "name": "Magic Necklace",
+    "type": "Magic",
+    "price": 120,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "demonboots,azureblade,enchantedtalisman,tomeofevil",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatManaRegen",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "id": "magicpotion",
+    "name": "Magic Potion",
+    "type": "Magic",
+    "price": 1500,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": null,
+    "description": "Unique Passive - Increase power: Upon purchases, grants 30 extra Magic Power and 10% Cooldown Reduction for 120s.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": "It's strongly recommended to purchase this at the end due to its higher price.",
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "magicresistcloak",
+    "name": "Magic Resist Cloak",
+    "type": "Defense",
+    "price": 220,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "thunderbelt,silencerobe,radiantarmor,toughboots,cursedhelmet,dominanceice,blackiceshield",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicDefense",
+        "value": 14
+      }
+    ]
+  },
+  {
+    "id": "magicwand",
+    "name": "Magic Wand",
+    "type": "Magic",
+    "price": 820,
+    "upgraded_price": 520,
+    "level": 2,
+    "build_from": "mysterycodex",
+    "build_into": "flaskoftheoasis,geniuswand,starliumscythe,holycrystal,bloodwings,lightningtruncheon,divineglaive,concentratedenergy,wishinglantern,enchantedtalisman",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 45
+      }
+    ]
+  },
+  {
+    "id": "maleficgun",
+    "name": "Malefic Gun",
+    "type": "Attack",
+    "price": 2120,
+    "upgraded_price": 730,
+    "level": 3,
+    "build_from": "furyhammer,knife,knife",
+    "build_into": null,
+    "description": "Unique Passive - Armor Buster: Increase Physical Penetration by 30%.<br>\nUnique Passive - Malefic Energy: Increases Basic Attack range by 12%. When hitting a target, gains 10% Movement Speed for 0.5 seconds.",
+    "story": "With technology from Eruditio, it now has greater range and more power, as befits the ebullient girl with the bright smile.",
+    "overview": "Attack Range Increase",
+    "tips": "Best equipped by Marksmen to increase their Attack Range for kiting.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.2
+      },
+      {
+        "key": "PercentPhysicalPenetration",
+        "value": 0.3
+      }
+    ]
+  },
+  {
+    "id": "maleficroar",
+    "name": "Malefic Roar",
+    "type": "Attack",
+    "price": 2060,
+    "upgraded_price": 1150,
+    "level": 3,
+    "build_from": "legionsword",
+    "build_into": null,
+    "description": "Unique Passive - Armor Buster: Increase Physical Penetration by 30%.<br>Unique Passive - Breaker: When attacking an enemy, gains 0.1% extra Physical Penetration for each point of the enemy's Physical Defense, capped at 30%.",
+    "story": "Famous for a certain warrior known as West Justice, it symbolizes justice and pierces all evil, striking fear to enemies' hearts with the sound of gunshot.",
+    "overview": "High Physical Penetration",
+    "tips": "Best equipped by Physical DPS heroes to counter enemy heroes that have high Defense abilities in the late game.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 60
+      },
+      {
+        "key": "PercentPhysicalPenetration",
+        "value": 0.3
+      }
+    ]
+  },
+  {
+    "id": "moltenessence",
+    "name": "Molten Essence",
+    "type": "Defense",
+    "price": 800,
+    "upgraded_price": 500,
+    "level": 2,
+    "build_from": "vitalitycrystal",
+    "build_into": "cursedhelmet",
+    "description": "Unique Passive - Burning Soul: Deals <scaleHP>(0.6% Total HP)</scaleHP> Magic Damage to nearby enemies per second. This damage is increased by 125(+15*Hero Level)% against creeps and minions.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": "Best equipped by Tanks to increase their damage or lane clearing abilities.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 540
+      }
+    ]
+  },
+  {
+    "id": "mysterycodex",
+    "name": "Mystery Codex",
+    "type": "Magic",
+    "price": 300,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "mysticcontainer,icequeenwand,arcaneboots,glowingwand,magicwand,exoticveil",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "mysticcontainer",
+    "name": "Mystic Container",
+    "type": "Magic",
+    "price": 500,
+    "upgraded_price": 200,
+    "level": 2,
+    "build_from": "mysterycodex",
+    "build_into": "icequeenwand,concentratedenergy",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 15
+      },
+      {
+        "key": "PercentSpellVamp",
+        "value": 0.08
+      }
+    ]
+  },
+  {
+    "id": "ogretomahawk",
+    "name": "Ogre Tomahawk",
+    "type": "Attack",
+    "price": 650,
+    "upgraded_price": 100,
+    "level": 2,
+    "build_from": "vitalitycrystal,dagger",
+    "build_into": "bladeoftheheptaseas,waraxe,endlessbattle",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 25
+      },
+      {
+        "key": "FlatHealth",
+        "value": 230
+      }
+    ]
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "type": "Defense",
+    "price": 1860,
+    "upgraded_price": 660,
+    "level": 3,
+    "build_from": "herosring,herosring,vitalitycrystal",
+    "build_into": null,
+    "description": "Unique Passive - Bless: Received Shield and HP Regen effects are increased by 25%.",
+    "story": "As the Elves basked in the moonlight that shone through the Tree of Life, the lush and green leaves became the best interpetation of the divine oracle.",
+    "overview": "Enhanced Regen",
+    "tips": "Best equipped by heroes that defend against enemies' Magic Power and have strong Regen skills (e.g. Shields, Heal, or Lifesteal).",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 850
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 20
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 20
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": "passivedirehit",
+    "name": "Passive - Dire Hit",
+    "type": "Roaming",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": "arcanebootsdirehit,demonbootsdirehit,magicbootsdirehit,rapidbootsdirehit,swiftbootsdirehit,toughbootsdirehit,warriorbootsdirehit",
+    "description": "Passive: Gains Force while moving, gradually increasing Movement Speed (up to 40). Upon reaching 20 stacks, the next hit consumes all stacks to deal extra True Damage based on the number of stacks.<br><br>When near allied heroes, you gain 30% EXP and Gold from minions and creeps. Dealing damage to enemy heroes (Cooldown: 15s) or revealing enemies also grants EXP and Gold. This skill can only be unlocked after accumulating 1000 Gold from Thriving.",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "passiveencourage",
+    "name": "Passive - Encourage",
+    "type": "Roaming",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": "arcanebootsencourage,demonbootsencourage,magicbootsencourage,rapidbootsencourage,swiftbootsencourage,toughbootsencourage,warriorbootsencourage",
+    "description": "Passive: Grants you and nearby allied heroes 20 extra Hybrid Defense.<br><br>When near allied heroes, you gain 30% EXP and Gold from minions and creeps. Dealing damage to enemy heroes (Cooldown: 15s) or revealing enemies also grants EXP and Gold. This skill can only be unlocked after accumulating 1000 Gold from Thriving.",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "passivefavor",
+    "name": "Passive - Favor",
+    "type": "Roaming",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": "arcanebootsfavor,demonbootsfavor,magicbootsfavor,rapidbootsfavor,swiftbootsfavor,toughbootsfavor,warriorbootsfavor",
+    "description": "Passive: Every 15s, your next healing or shield skill recovers 400 extra HP to the lowest-HP allied hero within 5 units (including yourself). Skills that only take effect on yourself cannot trigger this effect.<br><br>When near allied heroes, you gain 30% EXP and Gold from minions and creeps. Dealing damage to enemy heroes (Cooldown: 15s) or revealing enemies also grants EXP and Gold. This skill can only be unlocked after accumulating 1000 Gold from Thriving.",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "powercrystal",
+    "name": "Power Crystal",
+    "type": "Magic",
+    "price": 220,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "lightningtruncheon,elegantgem,wishinglantern",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMana",
+        "value": 280
+      }
+    ]
+  },
+  {
+    "id": "powerpotion",
+    "name": "Power Potion",
+    "type": "Attack",
+    "price": 1500,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": null,
+    "description": "Unique Passive - Increase Power: Upon purchase. grants 30 Physical Attack and 15% Lifesteal for 120s.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": "It's strongly recommended to purchase this at the end due to its higher price.",
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "queenswings",
+    "name": "Queen's Wings",
+    "type": "Defense",
+    "price": 2250,
+    "upgraded_price": 600,
+    "level": 3,
+    "build_from": "aresbelt,herosring,expertgloves",
+    "build_into": null,
+    "description": "Unique Passive - Demonize: When HP drops below 40%, gains 30% Damage Reduction for 3 seconds and reduces skill cooldowns by 2 seconds. This effect has a 60s cooldown.<br>Unique Passive - Defiance: For every 1% HP lost, damage is increased by 0.25%, up to 15%.",
+    "story": "The Queen offered her royal blood to the dwellers of the Abyss, blessing them with power and strength, and so the once savage, primitive kingdom of the underground thrived under her wings.",
+    "overview": "Low-HP Retaliation",
+    "tips": "Best equipped by Fighters that rely on skills to increase their durability.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 750
+      },
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 30
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "PercentSpellVamp",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": "radiantarmor",
+    "name": "Radiant Armor",
+    "type": "Defense",
+    "price": 1880,
+    "upgraded_price": 500,
+    "level": 3,
+    "build_from": "silencerobe,magicresistcloak,healingnecklace",
+    "build_into": null,
+    "description": "Unique Passive - Holy Blessing: Taking Magic Damage grants 5(+1*Hero Level) Magic Defense for 5 seconds, up to 6 stacks (can only gain 1 stack(s) every 0.4 seconds).",
+    "story": "\"This armor is given to those heroes who fight without fear in their hearts.\" At the unification ceremony of the Moniyan Empire, Gaius the Great gave this armor to the bravest heroes.",
+    "overview": "Magic Damage Reduction",
+    "tips": "Best equipped to fight Magic heroes that cast skills at a quick pace.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 950
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 40
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "id": "rapidboots",
+    "name": "Rapid Boots",
+    "type": "Movement",
+    "price": 720,
+    "upgraded_price": 220,
+    "level": 3,
+    "build_from": "boots,healingnecklace,healingnecklace",
+    "build_into": "rapidbootsconceal,rapidbootsdirehit,rapidbootsencourage,rapidbootsfavor,icehuntersrapidboots,flamehuntersrapidboots,behemothhuntersrapidboots",
+    "description": "",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": "Movement Speed",
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentSlowReduction",
+        "value": 0.35
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 12
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 55
+      }
+    ]
+  },
+  {
+    "id": "rapidbootsconceal",
+    "name": "Rapid Boots - Conceal",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 220,
+    "level": 3,
+    "build_from": "rapidboots,activeconceal",
+    "build_into": null,
+    "description": "<unique>Blessed: Active - Conceal</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "PercentSlowReduction",
+        "value": 0.35
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 12
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 55
+      }
+    ]
+  },
+  {
+    "id": "rapidbootsdirehit",
+    "name": "Rapid Boots - Dire Hit",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 220,
+    "level": 3,
+    "build_from": "rapidboots,passivedirehit",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Dire Hit</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "PercentSlowReduction",
+        "value": 0.35
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 12
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 55
+      }
+    ]
+  },
+  {
+    "id": "rapidbootsencourage",
+    "name": "Rapid Boots - Encourage",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 220,
+    "level": 3,
+    "build_from": "rapidboots,passiveencourage",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Encourage</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "PercentSlowReduction",
+        "value": 0.35
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 12
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 55
+      }
+    ]
+  },
+  {
+    "id": "rapidbootsfavor",
+    "name": "Rapid Boots - Favor",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 220,
+    "level": 3,
+    "build_from": "rapidboots,passivefavor",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Favor</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "PercentSlowReduction",
+        "value": 0.35
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 12
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 55
+      }
+    ]
+  },
+  {
+    "id": "regularspear",
+    "name": "Regular Spear",
+    "type": "Attack",
+    "price": 600,
+    "upgraded_price": 70,
+    "level": 2,
+    "build_from": "knife,dagger",
+    "build_into": "goldenstaff,seahalberd,windofnature,demonhuntersword,corrosionscythe",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 20
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": "resonatingheart",
+    "name": "Resonating Heart",
+    "type": "Movement",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": null,
+    "description": "Unique Passive - Restore: Allow allied Cecilion to use Moonlit Waltz on the user of this equipment.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "rockpotion",
+    "name": "Rock Potion",
+    "type": "Defense",
+    "price": 1500,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": null,
+    "description": "Unique Passive - Increase power: Upon purchase, grants 500 Max HP and 5% Damage Reduction for 120s.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": "It's strongly recommended to purchase this at the end due to its high price.",
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "roguemeteor",
+    "name": "Rogue Meteor",
+    "type": "Attack",
+    "price": 900,
+    "upgraded_price": 300,
+    "level": 2,
+    "build_from": "knife,javelin",
+    "build_into": "windtalker,haasclaws",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      },
+      {
+        "key": "PercentCritChance",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": "rosegoldmeteor",
+    "name": "Rose Gold Meteor",
+    "type": "Attack",
+    "price": 2030,
+    "upgraded_price": 700,
+    "level": 3,
+    "build_from": "magicblade,knife",
+    "build_into": null,
+    "description": "Unique Passive - Dragon Scale: Every 4 extra Physical Attack increases Hybrid Defense by 1, up to 50 (effect is halved if Main Role is not Fighter).<br>Unique Passive - Lifeline: When taking damage that reduces HP below 30%, gains a (120*Hero Level) shield (increases with level) and 50% Movement Speed that rapidly decays over 3 seconds. This effect has a 60s cooldown.",
+    "story": "The scale that protected the White Dragon from a fatal blow was made into an artifact after the Battle of the Dragons. It now rests silently in the Dragon Altar.",
+    "overview": "Low-HP Shield",
+    "tips": "Best equipped by Fighters that rely on Basic Attacks, this equipment increases their durability.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.2
+      },
+      {
+        "key": "PercentLifeSteal",
+        "value": 0.1
+      },
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 30
+      }
+    ]
+  },
+  {
+    "id": "seahalberd",
+    "name": "Sea Halberd",
+    "type": "Attack",
+    "price": 2050,
+    "upgraded_price": 540,
+    "level": 3,
+    "build_from": "legionsword,regularspear",
+    "build_into": null,
+    "description": "Unique Passive - Lifebane: Dealing damage to a target will reduce the Shield and HP Regen effects on them to 60% of normal for 3 seconds.<br>Unique Passive - Punish: Increase damage by 8% against enemy heroes with higher extra HP.",
+    "story": "The trident that pierced the Queen's shield in the War of the Abyss has grown sharper over time.",
+    "overview": "Healing Reduction",
+    "tips": "Best equipped by Physical heroes to reduce enemies' Regen effects (Heal, Shields or Lifesteal).",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 80
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "id": "silencerobe",
+    "name": "Silence Robe",
+    "type": "Defense",
+    "price": 1020,
+    "upgraded_price": 500,
+    "level": 2,
+    "build_from": "vitalitycrystal,magicresistcloak",
+    "build_into": "athenasshield,radiantarmor",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 540
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 23
+      }
+    ]
+  },
+  {
+    "id": "skypiercer",
+    "name": "Sky Piercer",
+    "type": "Attack,Magic",
+    "price": 1500,
+    "upgraded_price": 500,
+    "level": 3,
+    "build_from": "expertgloves,expertgloves",
+    "build_into": null,
+    "description": "Unique Passive - Lethality: After dealing damage to an enemy hero, executes the hero if their HP is lower than 4%. Gains 10 stack(s) of Lethality for each kill and loses 30% current stack(s) for each death. Each stack of Lethality increases the HP threshold of the execute effect by 0.1%, stacking up 80 times.",
+    "story": "Once a witness to the Endless War, the Blade has an unparalleled power to wreak havoc, and those who have seen it may call it Sky Piercer.",
+    "overview": "Best for Finishers",
+    "tips": "Suitable for Finisher Assassins.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 60
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 15
+      }
+    ]
+  },
+  {
+    "id": "starliumscythe",
+    "name": "Starlium Scythe",
+    "type": "Magic",
+    "price": 2120,
+    "upgraded_price": 200,
+    "level": 3,
+    "build_from": "azureblade,bookofsages,magicwand",
+    "build_into": null,
+    "description": "Unique Passive - Crisis: After casting a skill, the next Basic Attack within 3 seconds deals 90 <scaleAP>(+60% Total Magic Power)</scaleAP> extra True Damage and reduces the target's Movement Speed by 15% for 1.5 seconds (1.5 seconds cooldown).",
+    "story": "The scientists of Eruditio cut and rebuilt the Starlium device according to the rules of magic, eventually merging the powers of magic and Starlium.",
+    "overview": "Enhanced Basic Attacks",
+    "tips": "Best equipped by Magic heroes that add Basic Attacks in between of each skill cast.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "PercentHybridLifeSteal",
+        "value": 0.08
+      },
+      {
+        "key": "FlatManaRegen",
+        "value": 6
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 75
+      }
+    ]
+  },
+  {
+    "id": "steellegplates",
+    "name": "Steel Legplates",
+    "type": "Defense",
+    "price": 630,
+    "upgraded_price": 410,
+    "level": 2,
+    "build_from": "leatherjerkin",
+    "build_into": "bladearmor,dominanceice,chastisepauldron",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 35
+      }
+    ]
+  },
+  {
+    "id": "swiftboots",
+    "name": "Swift Boots",
+    "type": "Movement",
+    "price": 720,
+    "upgraded_price": 190,
+    "level": 3,
+    "build_from": "boots,knife",
+    "build_into": "swiftbootsconceal,swiftbootsdirehit,swiftbootsencourage,swiftbootsfavor,icehuntersswiftboots,flamehuntersswiftboots,behemothhuntersswiftboots",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": "Attack Speed",
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "swiftbootsconceal",
+    "name": "Swift Boots - Conceal",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 190,
+    "level": 3,
+    "build_from": "swiftboots,activeconceal",
+    "build_into": null,
+    "description": "<unique>Blessed: Active - Conceal</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "swiftbootsdirehit",
+    "name": "Swift Boots - Dire Hit",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 190,
+    "level": 3,
+    "build_from": "swiftboots,passivedirehit",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Dire Hit</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "swiftbootsencourage",
+    "name": "Swift Boots - Encourage",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 190,
+    "level": 3,
+    "build_from": "swiftboots,passiveencourage",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Encourage</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "swiftbootsfavor",
+    "name": "Swift Boots - Favor",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 190,
+    "level": 3,
+    "build_from": "swiftboots,passivefavor",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Favor</unique><br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      }
+    ]
+  },
+  {
+    "id": "swiftcrossbow",
+    "name": "Swift Crossbow",
+    "type": "Attack",
+    "price": 1000,
+    "upgraded_price": 440,
+    "level": 2,
+    "build_from": "knife,knife",
+    "build_into": "featherofheaven,corrosionscythe",
+    "description": "Unique Passive - Crossbow: Each Basic Attack deals 40 extra Adaptive Damage.<br>Unique Passive - Impulse: Basic Attacks grant 3% extra Attack Speed for 3 seconds, capped at 5 stacks.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.2
+      }
+    ]
+  },
+  {
+    "id": "throwforbidden",
+    "name": "Throw Forbidden",
+    "type": "Movement",
+    "price": 0,
+    "upgraded_price": 0,
+    "level": 0,
+    "build_from": null,
+    "build_into": null,
+    "description": "Unique Passive - Heavy Mountain: Become immune to allied Jawhead's Ejector in this match.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": []
+  },
+  {
+    "id": "thunderbelt",
+    "name": "Thunder Belt",
+    "type": "Defense",
+    "price": 1820,
+    "upgraded_price": 680,
+    "level": 3,
+    "build_from": "aresbelt,leatherjerkin,magicresistcloak",
+    "build_into": null,
+    "description": "Unique Passive - Thunderbolt: Every 4 seconds, the next Basic Attack deals 50 <scaleHP>(+100% Extra Physical Defense)</scaleHP> <scaleAP>(+100% Extra Magic Defense)</scaleAP> extra True Damage to the target and enemies around them, and briefly slows them by 99%. Hybrid Defense permanently increases by 1 each time the attack hits an enemy hero.<br><diminish>This effect is reduced to 50% for Marksmen and Mages</diminish>",
+    "story": "The Prophet of Magic abstracted the power of lightning and imbued it into a belt, giving it balanced abilities in both attack and defense. It is now safely stored in the vault of the Magic Academy.",
+    "overview": "Damage for Tanks",
+    "tips": "Best equipped by Fighter Tanks to deal greater damage.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 600
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 15
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 15
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "tomeofevil",
+    "name": "Tome of Evil",
+    "type": "Magic",
+    "price": 950,
+    "upgraded_price": 380,
+    "level": 2,
+    "build_from": "magicnecklace,bookofsages",
+    "build_into": "enchantedtalisman",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "FlatManaRegen",
+        "value": 2
+      },
+      {
+        "key": "FlatMagicPower",
+        "value": 30
+      }
+    ]
+  },
+  {
+    "id": "toughboots",
+    "name": "Tough Boots",
+    "type": "Movement",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "boots,magicresistcloak",
+    "build_into": "toughbootsconceal,toughbootsdirehit,toughbootsencourage,toughbootsfavor,icehunterstoughboots,flamehunterstoughboots,behemothhunterstoughboots",
+    "description": "Unique Passive - Fortitude: CC and Slow Duration reduced by 25%.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": "Resilience",
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 18
+      },
+      {
+        "key": "PercentTenacity",
+        "value": 0.25
+      }
+    ]
+  },
+  {
+    "id": "toughbootsconceal",
+    "name": "Tough Boots - Conceal",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "toughboots,activeconceal",
+    "build_into": null,
+    "description": "<unique>Blessed: Active - Conceal</unique><br>Unique Passive - Fortitude: CC and Slow Duration reduced by 25%.<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "PercentTenacity",
+        "value": 0.25
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": "toughbootsdirehit",
+    "name": "Tough Boots - Dire Hit",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "toughboots,passivedirehit",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Dire Hit</unique><br>Unique Passive - Fortitude: CC and Slow Duration reduced by 25%.<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 18
+      },
+      {
+        "key": "PercentTenacity",
+        "value": 0.25
+      }
+    ]
+  },
+  {
+    "id": "toughbootsencourage",
+    "name": "Tough Boots - Encourage",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "toughboots,passiveencourage",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Encourage</unique><br>Unique Passive - Fortitude: CC and Slow Duration reduced by 25%.<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 18
+      },
+      {
+        "key": "PercentTenacity",
+        "value": 0.25
+      }
+    ]
+  },
+  {
+    "id": "toughbootsfavor",
+    "name": "Tough Boots - Favor",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "toughboots,passivefavor",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Favor</unique><br>Unique Passive - Fortitude: CC and Slow Duration reduced by 25%.<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatMagicDefense",
+        "value": 18
+      },
+      {
+        "key": "PercentTenacity",
+        "value": 0.25
+      }
+    ]
+  },
+  {
+    "id": "vampiremallet",
+    "name": "Vampire Mallet",
+    "type": "Attack",
+    "price": 400,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "haasclaws,magicblade,windofnature,demonhuntersword",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 8
+      },
+      {
+        "key": "PercentLifeSteal",
+        "value": 0.08
+      }
+    ]
+  },
+  {
+    "id": "vitalitycrystal",
+    "name": "Vitality Crystal",
+    "type": "Defense",
+    "price": 300,
+    "upgraded_price": 0,
+    "level": 1,
+    "build_from": null,
+    "build_into": "athenasshield,elegantgem,flaskoftheoasis,oracle,aresbelt,silencerobe,blackiceshield,glowingwand,immortality,ogretomahawk,wintercrown,moltenessence,concentratedenergy",
+    "description": null,
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": null,
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 230
+      }
+    ]
+  },
+  {
+    "id": "waraxe",
+    "name": "War Axe",
+    "type": "Attack",
+    "price": 2100,
+    "upgraded_price": 550,
+    "level": 3,
+    "build_from": "ogretomahawk,ironhuntingbow,herosring",
+    "build_into": null,
+    "description": "Unique Passive - Fighting Spirit: Attacks grant 12 extra Physical Attack per second for 4 seconds, up to 6 stacks. Deals 10% extra True Damage based on the damage dealt (no damage reduction counted) at full stacks.<br><diminish>Marksmen, Mages, and Supports only receive 50% of these stacked effects<diminish>.",
+    "story": "This battleaxe is said to have been wielded by the Leonins' ancestors as they resisted the Abyss forces, along with the Elves. When they could fight no longer, the weapon and its power fell into a deep slumber. As of late, it has been awoken by the rage and battle spirit of a certain Leonin warrior.",
+    "overview": "Continuous Damage Boost",
+    "tips": "Best equipped by Fighters that need good sustainability.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 35
+      },
+      {
+        "key": "FlatHealth",
+        "value": 400
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "PercentSpellVamp",
+        "value": 0.12
+      }
+    ]
+  },
+  {
+    "id": "warriorboots",
+    "name": "Warrior Boots",
+    "type": "Movement",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "boots,leatherjerkin",
+    "build_into": "warriorbootsconceal,warriorbootsdirehit,warriorbootsencourage,warriorbootsfavor,icehunterswarriorboots,flamehunterswarriorboots,behemothhunterswarriorboots",
+    "description": "Unique Passive - Valor: Gains 4 extra Physical Defense for 3 seconds when taking Physical Damage, up to 20.",
+    "story": "The archaeologists in the Land of Dawn have not reached a clear conclusion about this piece of equipment.",
+    "overview": "Stackable Physical Defense",
+    "tips": null,
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": "warriorbootsconceal",
+    "name": "Warrior Boots - Conceal",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "warriorboots,activeconceal",
+    "build_into": null,
+    "description": "<unique>Blessed: Active - Conceal</unique><br>Unique Passive - Valor: Gain 4 extra Physical Defense for 3s when taking Physical Damage, up to 20.<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 18
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      }
+    ]
+  },
+  {
+    "id": "warriorbootsdirehit",
+    "name": "Warrior Boots - Dire Hit",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "warriorboots,passivedirehit",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Dire Hit</unique><br>Unique Passive - Valor: Gain 4 extra Physical Defense for 3s when taking Physical Damage, up to 20.<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": "warriorbootsencourage",
+    "name": "Warrior Boots - Encourage",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "warriorboots,passiveencourage",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Encourage</unique><br>Unique Passive - Valor: Gain 4 extra Physical Defense for 3s when taking Physical Damage, up to 20.<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": "warriorbootsfavor",
+    "name": "Warrior Boots - Favor",
+    "type": "Roaming",
+    "price": 720,
+    "upgraded_price": 250,
+    "level": 3,
+    "build_from": "warriorboots,passivefavor",
+    "build_into": null,
+    "description": "<unique>Blessed: Passive - Favor</unique><br>Unique Passive - Valor: Gain 4 extra Physical Defense for 3s when taking Physical Damage, up to 20.<br>Unique Passive - <highlight>Devotion</highlight>: When near allied heroes, does not share Gold and EXP from minions and creeps, but gains Gold and EXP when dealing damage to enemy heroes (Cooldown: 15s). Revealing enemies also grants Gold and EXP.<br>A maximum of 2000 Gold can be gained through this skill. (Only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Thriving</highlight>: <trueDamage>Unique in Team</trueDamage>: Gain 6 Gold and 12 EXP every 5s. After 8 minutes into the match, gain an additional 66% boost (only triggers when you have the lowest Gold among all heroes with active Roaming Blessing on your team).<br>Unique Passive - <highlight>Blessing</highlight>: Accumulate 1000 Gold via Devotion and Thriving to unlock a skill.<br><diminish>During the first 5 minutes, Minion rewards are reduced to 50% when earned alone. After 2 minutes, Roaming Blessing can no longer be enchanted.</diminish>",
+    "story": null,
+    "overview": null,
+    "tips": null,
+    "in_store": 0,
+    "attributes": [
+      {
+        "key": "FlatMovementSpeed",
+        "value": 40
+      },
+      {
+        "key": "FlatPhysicalDefense",
+        "value": 18
+      }
+    ]
+  },
+  {
+    "id": "windofnature",
+    "name": "Wind of Nature",
+    "type": "Attack",
+    "price": 1910,
+    "upgraded_price": 910,
+    "level": 3,
+    "build_from": "regularspear,vampiremallet",
+    "build_into": null,
+    "description": "Active Skill - Wind Chant: Become immune to all Physical Damage for 2 seconds (duration is halved for non-Marksmen; 90 seconds cooldown).",
+    "story": "A gem from the depths of the Azrya Woodlands, rich with natural energies, was forged into a longbow by the Elves to protect their sanctuary, the Moonlit Forest.",
+    "overview": "Physical Damage Immunity",
+    "tips": "Best equipped by Markmen that need to fight Physical Assassins or other Physical Marksmen. Requires accurate control.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatPhysicalAttack",
+        "value": 30
+      },
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.2
+      },
+      {
+        "key": "PercentLifeSteal",
+        "value": 0.1
+      }
+    ]
+  },
+  {
+    "id": "windtalker",
+    "name": "Windtalker",
+    "type": "Attack",
+    "price": 1880,
+    "upgraded_price": 700,
+    "level": 3,
+    "build_from": "roguemeteor,knife",
+    "build_into": null,
+    "description": "Unique Passive - Typhoon: Every 5–2 seconds (reduced by 0.2 seconds for each Basic Attack), the next Basic Attack will hit up to 3 enemy units for 150–362 Magic Damage. (This attack can Crit and the damage increases to 200% against Minions.)",
+    "story": "It once determined the fate of the Twin Cities, Wind Fort and Fire Throat, and later its sharp edge witnessed a decades-long promise between two best friends.",
+    "overview": "Splash Damage",
+    "tips": "Best equipped by Physical Basic Attack heroes that rely on Attack Speed and Movement Speed.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.35
+      },
+      {
+        "key": "PercentCritChance",
+        "value": 0.2
+      },
+      {
+        "key": "FlatMovementSpeed",
+        "value": 20
+      }
+    ]
+  },
+  {
+    "id": "wintercrown",
+    "name": "Winter Crown",
+    "type": "Attack,Magic",
+    "price": 1910,
+    "upgraded_price": 660,
+    "level": 3,
+    "build_from": "expertgloves,herosring,vitalitycrystal",
+    "build_into": null,
+    "description": "Active Skill - Frozen: Becomes frozen, untargetable, and immune to damage for 2 seconds (100 seconds cooldown). Cannot move or cast skills while frozen, but skills already cast won't be interrupted.",
+    "story": "The core of the Glacier was created by the Lord of Light. Having awakened along with the Maiden of the Glacier, it symbolizes the power of eternity that not only protects but also confines her.",
+    "overview": "Temporary Invincibility",
+    "tips": "Best equipped by Assassins and Mages to avoid damage in the late game. Requires accurate control.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 45
+      },
+      {
+        "key": "FlatHealth",
+        "value": 400
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.05
+      }
+    ]
+  },
+  {
+    "id": "wishinglantern",
+    "name": "Wishing Lantern",
+    "type": "Magic",
+    "price": 2250,
+    "upgraded_price": 760,
+    "level": 3,
+    "build_from": "magicwand,bookofsages,powercrystal",
+    "build_into": null,
+    "description": "Unique Passive - Butterfly Goddess: For every 800 Magic Damage dealt to an enemy hero (calculated before Damage Reduction), a Butterfly Goddess is summoned to attack the enemy hero, dealing Magic Damage equal to 8% of their Current HP.",
+    "story": "A lantern left by the guardian of Cadia Riverlands that contains infinite wishes. A mysterious girl now lights it, summoning Crimson Butterflies and guiding lost spirits.",
+    "overview": "Counter High HP",
+    "tips": "Suitable for Magic heroes when up against high-HP enemy heroes.",
+    "in_store": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 75
+      },
+      {
+        "key": "FlatMana",
+        "value": 400
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      }
+    ]
+  }
+]
