@@ -1,0 +1,527 @@
+[
+  {
+    "id": "assassin",
+    "name": "Assassin Emblem",
+    "regen_rating": 1,
+    "durability_rating": 1,
+    "enhance_attack_rating": 2.2,
+    "enhance_skill_rating": 2.2,
+    "mobility_rating": 1.5,
+    "support_rating": 1,
+    "attributes": [
+      {
+        "key": "FlatAdaptivePenetration",
+        "value": 14
+      },
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 10
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.03
+      }
+    ],
+    "talents": [
+      {
+        "id": "killingspree",
+        "emblem_id": "assassin",
+        "emblem_name": "Assassin Emblem",
+        "name": "Killing Spree",
+        "level": 3,
+        "unlock_level": 20,
+        "overview": "Regen and Speed Up After Dealing Damage",
+        "description": "When damaging heroes below 30% HP, instantly recover 15% of Lost HP and gain 20% Movement Speed.<br><br><diminish>Additional Effect: Reset cooldown upon killing an enemy hero.</diminish><br>\r\n<diminish>Duration: 3s</diminish><br>\r\n<diminish>Cooldown: 30s</diminish>",
+        "attributes": []
+      },
+      {
+        "id": "masterassassin",
+        "emblem_id": "assassin",
+        "emblem_name": "Assassin Emblem",
+        "name": "Master Assassin",
+        "level": 2,
+        "unlock_level": 15,
+        "overview": "Increase Damage to Lone Heroes",
+        "description": "If there is only one enemy hero nearby, damage dealt to them is increased by 7%.",
+        "attributes": []
+      },
+      {
+        "id": "rupture",
+        "emblem_id": "assassin",
+        "emblem_name": "Assassin Emblem",
+        "name": "Rupture",
+        "level": 1,
+        "unlock_level": 10,
+        "overview": null,
+        "description": "Gain 5 <highlight>Adaptive Penetration</highlight><br><br><diminish>Gain Physical Penetration if extra Physical Attack is higher than extra Magic Power; otherwise, gain Magic Penetration.</diminish>",
+        "attributes": [
+          {
+            "key": "FlatAdaptivePenetration",
+            "value": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "basiccommon",
+    "name": "Basic Common Emblem",
+    "regen_rating": 1.8,
+    "durability_rating": 1.8,
+    "enhance_attack_rating": 1.8,
+    "enhance_skill_rating": 1.5,
+    "mobility_rating": 1,
+    "support_rating": 1,
+    "attributes": [
+      {
+        "key": "FlatHybridRegen",
+        "value": 12
+      },
+      {
+        "key": "FlatHealth",
+        "value": 275
+      },
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 22
+      }
+    ],
+    "talents": [
+      {
+        "id": "impurerage",
+        "emblem_id": "basiccommon",
+        "emblem_name": "Basic Common Emblem",
+        "name": "Impure Rage",
+        "level": 3,
+        "unlock_level": 20,
+        "overview": "Extra Skill Damage & Restore Mana on Hit",
+        "description": "Dealing damage with skills deals 4% of target's Max HP as extra <highlight>Adaptive Damage</highlight> and restores 2% Mana on hit.<br><br><diminish>If the hero does not use Mana, recovers 1% HP instead. The extra Adaptive Damage dealt to non-hero units is up to 120.</diminish><br><br><diminish>Cooldown: 5s.</diminish>",
+        "attributes": []
+      },
+      {
+        "id": "quantumcharge",
+        "emblem_id": "basiccommon",
+        "emblem_name": "Basic Common Emblem",
+        "name": "Quantum Charge",
+        "level": 3,
+        "unlock_level": 40,
+        "overview": "Basic Attacks Grant HP Regen & Speed Up",
+        "description": "Dealing damage with Basic Attacks increases Movement Speed by 30% for 1.5s and restores 75-180 HP (scales with level).<br><br><diminish>Cooldown: 10s.</diminish>",
+        "attributes": []
+      },
+      {
+        "id": "seasonedhunter",
+        "emblem_id": "basiccommon",
+        "emblem_name": "Basic Common Emblem",
+        "name": "Seasoned Hunter",
+        "level": 2,
+        "unlock_level": 35,
+        "overview": "Increase Jungling Speed",
+        "description": "Damage against Lord and Turtle is increased by 15%. This bonus is halved against regular Creeps and doesn't affect the damage of Retribution",
+        "attributes": []
+      },
+      {
+        "id": "swift",
+        "emblem_id": "basiccommon",
+        "emblem_name": "Basic Common Emblem",
+        "name": "Swift",
+        "level": 1,
+        "unlock_level": 30,
+        "overview": null,
+        "description": "Gain 10% extra Attack Speed.",
+        "attributes": [
+          {
+            "key": "PercentAttackSpeed",
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "id": "temporalreign",
+        "emblem_id": "basiccommon",
+        "emblem_name": "Basic Common Emblem",
+        "name": "Temporal Reign",
+        "level": 3,
+        "unlock_level": 50,
+        "overview": "Non-Ultimate Skills Cooldown Reduction",
+        "description": "The next Ultimate cast decreases other active skills' remaining cooldowns by 1.5 times within 4s. This effect is extended by 2s after getting hero kills or assists.<br><br><diminish>This only applies to the hero themselves.</diminish><br><diminish>Cooldown: 20s.</diminish>",
+        "attributes": []
+      },
+      {
+        "id": "thrill",
+        "emblem_id": "basiccommon",
+        "emblem_name": "Basic Common Emblem",
+        "name": "Thrill",
+        "level": 1,
+        "unlock_level": 10,
+        "overview": null,
+        "description": "Gain 16 <highlight>Adaptive Attack</highlight>.",
+        "attributes": [
+          {
+            "key": "FlatAdaptiveAttack",
+            "value": 16
+          }
+        ]
+      },
+      {
+        "id": "warcry",
+        "emblem_id": "basiccommon",
+        "emblem_name": "Basic Common Emblem",
+        "name": "War Cry",
+        "level": 3,
+        "unlock_level": 45,
+        "overview": "Increase Sustained Damage",
+        "description": "After every 3 separate Basic Attacks or skills hit an enemy hero, all damage dealt increases by 8% for 6s.<br><br><diminish>A single Basic Attack or skill that deals damage multiple times only counts as 1.</diminish><br><diminish>Cooldown: 6s.</diminish>",
+        "attributes": []
+      },
+      {
+        "id": "wildernessblessing",
+        "emblem_id": "basiccommon",
+        "emblem_name": "Basic Common Emblem",
+        "name": "Wilderness Blessing",
+        "level": 2,
+        "unlock_level": 15,
+        "overview": "Extra Movement Speed in Jungle and River",
+        "description": "Movement Speed in the Jungle and River is increased by 10%. This bonus is halved when in combat with enemy heroes, Lord or Turtle.",
+        "attributes": []
+      }
+    ]
+  },
+  {
+    "id": "fighter",
+    "name": "Fighter Emblem",
+    "regen_rating": 1.8,
+    "durability_rating": 1.8,
+    "enhance_attack_rating": 1.8,
+    "enhance_skill_rating": 1.8,
+    "mobility_rating": 1,
+    "support_rating": 1,
+    "attributes": [
+      {
+        "key": "PercentSpellVamp",
+        "value": 0.12
+      },
+      {
+        "key": "FlatHybridDefense",
+        "value": 8
+      },
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 16
+      }
+    ],
+    "talents": [
+      {
+        "id": "bravesmite",
+        "emblem_id": "fighter",
+        "emblem_name": "Fighter Emblem",
+        "name": "Brave Smite",
+        "level": 3,
+        "unlock_level": 20,
+        "overview": "Skill Damage Grants HP Regen",
+        "description": "Dealing skill damage to an enemy hero recovers 5% of max HP.<br><br><diminish>Cooldown: 6s.</diminish>",
+        "attributes": []
+      },
+      {
+        "id": "festivalofblood",
+        "emblem_id": "fighter",
+        "emblem_name": "Fighter Emblem",
+        "name": "Festival of Blood",
+        "level": 2,
+        "unlock_level": 15,
+        "overview": "Get Extra Spell Vamp",
+        "description": "Gain 6% Spell Vamp. Each hero kill or assist grants an additional 0.5% Spell Vamp, up to 12 stacks.",
+        "attributes": [
+          {
+            "key": "PercentSpellVamp",
+            "value": 0.06
+          }
+        ]
+      },
+      {
+        "id": "firmness",
+        "emblem_id": "fighter",
+        "emblem_name": "Fighter Emblem",
+        "name": "Firmness",
+        "level": 1,
+        "unlock_level": 10,
+        "overview": null,
+        "description": "Gain 8 extra Physical & Magic Defense.",
+        "attributes": [
+          {
+            "key": "FlatPhysicalDefense",
+            "value": 8
+          },
+          {
+            "key": "FlatMagicDefense",
+            "value": 8
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mage",
+    "name": "Mage Emblem",
+    "regen_rating": 2,
+    "durability_rating": 1,
+    "enhance_attack_rating": 1,
+    "enhance_skill_rating": 3,
+    "mobility_rating": 1,
+    "support_rating": 1,
+    "attributes": [
+      {
+        "key": "FlatMagicPower",
+        "value": 30
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.05
+      },
+      {
+        "key": "FlatMagicPenetration",
+        "value": 8
+      }
+    ],
+    "talents": [
+      {
+        "id": "inspire",
+        "emblem_id": "mage",
+        "emblem_name": "Mage Emblem",
+        "name": "Inspire",
+        "level": 1,
+        "unlock_level": 10,
+        "overview": null,
+        "description": "Cooldown Reduction is increased by 5% and Mana Regen by 2.",
+        "attributes": [
+          {
+            "key": "PercentCooldownReduction",
+            "value": 0.05
+          },
+          {
+            "key": "FlatManaRegen",
+            "value": 2
+          }
+        ]
+      },
+      {
+        "id": "lethalignition",
+        "emblem_id": "mage",
+        "emblem_name": "Mage Emblem",
+        "name": "Lethal Ignition",
+        "level": 3,
+        "unlock_level": 20,
+        "overview": "Extra Damage on Multi-Hits",
+        "description": "Dealing damage greater than 7% of an enemy hero's Max HP 3 times within 5s will scorch the target for an additional 162-750 Adaptive Damage (scales with level).<br><br><diminish>Cooldown: 15s</diminish>",
+        "attributes": []
+      },
+      {
+        "id": "bargainhunter",
+        "emblem_id": "mage",
+        "emblem_name": "Mage Emblem",
+        "name": "Bargain Hunter",
+        "level": 2,
+        "unlock_level": 15,
+        "overview": "Reduce Equipment Cost",
+        "description": "Equipment can be purchased at 95% of their base price.",
+        "attributes": []
+      }
+    ]
+  },
+  {
+    "id": "marksman",
+    "name": "Marksman Emblem",
+    "regen_rating": 1.8,
+    "durability_rating": 1,
+    "enhance_attack_rating": 3,
+    "enhance_skill_rating": 1.8,
+    "mobility_rating": 1,
+    "support_rating": 1,
+    "attributes": [
+      {
+        "key": "PercentAttackSpeed",
+        "value": 0.15
+      },
+      {
+        "key": "FlatAdaptiveAttack",
+        "value": 16
+      },
+      {
+        "key": "PercentAdaptivePenetration",
+        "value": 0.1
+      }
+    ],
+    "talents": [
+      {
+        "id": "weaknessfinder",
+        "emblem_id": "marksman",
+        "emblem_name": "Marksman Emblem",
+        "name": "Weakness Finder",
+        "level": 3,
+        "unlock_level": 20,
+        "overview": "Basic Attacks Slow Enemies",
+        "description": "Basic Attacks slow enemies by 50% and reduce their Attack Speed by 30%.<br><br><diminish>Duration: 1s.</diminish>\r\n<diminish><br>Cooldown: 10s (each Basic Attack reduces it by 1s, down to 3s).</diminish>",
+        "attributes": []
+      },
+      {
+        "id": "weaponsmaster",
+        "emblem_id": "marksman",
+        "emblem_name": "Marksman Emblem",
+        "name": "Weapons Master",
+        "level": 2,
+        "unlock_level": 15,
+        "overview": "Bonus Extra Attack",
+        "description": "Physical Attack and Magic Power gained from equipment, emblem, talents and skills are increased by 8%.",
+        "attributes": []
+      },
+      {
+        "id": "fatal",
+        "emblem_id": "marksman",
+        "emblem_name": "Marksman Emblem",
+        "name": "Fatal",
+        "level": 1,
+        "unlock_level": 10,
+        "overview": null,
+        "description": "Gain 5% extra Crit Chance and 5% extra Crit Damage.",
+        "attributes": [
+          {
+            "key": "PercentCritDamage",
+            "value": 0.05
+          },
+          {
+            "key": "PercentCritChance",
+            "value": 0.05
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "support",
+    "name": "Support Emblem",
+    "regen_rating": 1,
+    "durability_rating": 1,
+    "enhance_attack_rating": 1,
+    "enhance_skill_rating": 1.8,
+    "mobility_rating": 2,
+    "support_rating": 3,
+    "attributes": [
+      {
+        "key": "PercentHealingEffect",
+        "value": 0.12
+      },
+      {
+        "key": "PercentCooldownReduction",
+        "value": 0.1
+      },
+      {
+        "key": "PercentMovementSpeed",
+        "value": 0.06
+      }
+    ],
+    "talents": [
+      {
+        "id": "focusingmark",
+        "emblem_id": "support",
+        "emblem_name": "Support Emblem",
+        "name": "Focusing Mark",
+        "level": 3,
+        "unlock_level": 20,
+        "overview": "Enhance Ally Damage",
+        "description": "After damaging an enemy hero, allied heroes deal 6% more damage to them and gain 10% Movement Speed.<br><br><diminish>Duration: 3s</diminish><br>\r\n<diminish>Cooldown: 4s</diminish>",
+        "attributes": []
+      },
+      {
+        "id": "pullyourselftogether",
+        "emblem_id": "support",
+        "emblem_name": "Support Emblem",
+        "name": "Pull Yourself Together",
+        "level": 2,
+        "unlock_level": 15,
+        "overview": "Reduce Battle Spell & Active Equipment CD",
+        "description": "Cooldowns of Battle Spells and equipment's active skills are reduced by 12% initially. Each hero kill or assist grants an additional 1% reduction, up to 8 stacks.",
+        "attributes": []
+      },
+      {
+        "id": "agility",
+        "emblem_id": "support",
+        "emblem_name": "Support Emblem",
+        "name": "Agility",
+        "level": 1,
+        "unlock_level": 10,
+        "overview": null,
+        "description": "Gain 4% extra Movement Speed",
+        "attributes": [
+          {
+            "key": "PercentMovementSpeed",
+            "value": 0.04
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tank",
+    "name": "Tank Emblem",
+    "regen_rating": 2,
+    "durability_rating": 3,
+    "enhance_attack_rating": 1,
+    "enhance_skill_rating": 1,
+    "mobility_rating": 1,
+    "support_rating": 1,
+    "attributes": [
+      {
+        "key": "FlatHealth",
+        "value": 500
+      },
+      {
+        "key": "FlatHybridDefense",
+        "value": 10
+      },
+      {
+        "key": "FlatHealthRegen",
+        "value": 4
+      }
+    ],
+    "talents": [
+      {
+        "id": "tenacity",
+        "emblem_id": "tank",
+        "emblem_name": "Tank Emblem",
+        "name": "Tenacity",
+        "level": 2,
+        "unlock_level": 15,
+        "overview": "Increase Defense at Low HP",
+        "description": "When HP is below 50%. Damage Reduction is increased by 5%.",
+        "attributes": []
+      },
+      {
+        "id": "vitality",
+        "emblem_id": "tank",
+        "emblem_name": "Tank Emblem",
+        "name": "Vitality",
+        "level": 1,
+        "unlock_level": 10,
+        "overview": null,
+        "description": "Gain 225 extra Max HP.",
+        "attributes": [
+          {
+            "key": "FlatHealth",
+            "value": 225
+          }
+        ]
+      },
+      {
+        "id": "concussiveblast",
+        "emblem_id": "tank",
+        "emblem_name": "Tank Emblem",
+        "name": "Concussive Blast",
+        "level": 3,
+        "unlock_level": 20,
+        "overview": "HP-Based AOE Damage",
+        "description": "After the next Basic Attack, deal 100 (+7% Total HP) Magic Damage to nearby enemies.<br><br><diminish>Cooldown: 15s.</diminish>",
+        "attributes": []
+      }
+    ]
+  }
+]
