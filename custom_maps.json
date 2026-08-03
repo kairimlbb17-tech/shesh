@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Backup",
+    "script": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip",
+    "image": ""
+  },
+  {
+    "name": "Night Mode",
+    "image": "https://github.com/missnapokita/maps/blob/main/image/Picsart_26-07-28_23-26-04-012.jpg?raw=true",
+    "image2": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/Picsart_26-07-28_23-26-20-456.jpg",
+    "image3": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/Picsart_26-07-28_23-26-42-827.jpg",
+    "image4": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/Picsart_26-07-28_23-26-57-933.jpg",
+    "script": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20low.zip",
+    "script2": "",
+    "script3": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20high.zip",
+    "script4": "https://raw.githubusercontent.com/missnapokita/maps/main/dark%20ultra.zip"
+  },
+  {
+    "name": "League of Legends",
+    "image": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%201.jpg",
+    "image2": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%202.jpg",
+    "image3": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%203.jpg",
+    "image4": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%204.jpg",
+    "script": "",
+    "script2": "",
+    "script3": "https://github.com/missnapokita/maps/raw/refs/heads/main/lol/lol%20high.zip",
+    "script4": "",
+    "image5": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/lol%205.jpg"
+  },
+  {
+    "name": "MPL",
+    "image": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%201.jpg",
+    "image2": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%202.jpg",
+    "image3": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%203.jpg",
+    "image4": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%204.jpg",
+    "script": "",
+    "script2": "",
+    "script3": "https://raw.githubusercontent.com/missnapokita/maps/main/mpl%20high.zip",
+    "script4": "",
+    "image5": "https://raw.githubusercontent.com/missnapokita/maps/refs/heads/main/image/mpl%205.jpg"
+  }
+]
