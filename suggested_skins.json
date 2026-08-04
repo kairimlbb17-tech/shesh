@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cyber Assassin",
+    "hero": "Aamon",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest?cb=20221216103151",
+    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_cyberassassin.zip"
+  },
+  {
+    "name": "Kung Fu Panda",
+    "hero": "Akai",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero098-portrait.png/revision/latest?cb=20220804115325",
+    "script": "https://github.com/tin0521/tnk/raw/main/akai_kungfu.zip"
+  },
+  {
+    "name": "King of Supremacy",
+    "hero": "Aldous",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest?cb=20220525165622",
+    "script": "https://github.com/tin0521/neww/raw/main/aldous_m1.zip"
+  },
+  {
+    "name": "Wizardy Teacher",
+    "hero": "Alice",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest?cb=20220525164350",
+    "script": "https://github.com/tin0521/mge/raw/main/alice_wizardry.zip"
+  },
+  {
+    "name": "Onimusha Commander",
+    "hero": "Alpha",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero282-portrait.png/revision/latest?cb=20220525164918",
+    "script": "https://github.com/tin0521/ff/raw/main/alpha_onimusha.zip"
+  },
+  {
+    "name": "Child of the Fall",
+    "hero": "Alucard",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero074-portrait.png/revision/latest?cb=20220525164438",
+    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_childofthefall.zip"
+  }
+]
