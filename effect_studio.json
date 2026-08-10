@@ -1,0 +1,30 @@
+[
+  {
+    "key": "recall",
+    "title": "Recall",
+    "subtitle": "Base recall replacements",
+    "cover": "",
+    "order": 0
+  },
+  {
+    "key": "trail",
+    "title": "Trail",
+    "subtitle": "Movement & skill trails",
+    "cover": "",
+    "order": 1
+  },
+  {
+    "key": "emote",
+    "title": "Emote",
+    "subtitle": "In-game emote effects",
+    "cover": "",
+    "order": 2
+  },
+  {
+    "key": "elimination",
+    "title": "Elimination",
+    "subtitle": "Kill & spawn effects",
+    "cover": "",
+    "order": 3
+  }
+]
