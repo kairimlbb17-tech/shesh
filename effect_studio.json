@@ -3,28 +3,28 @@
     "key": "recall",
     "title": "Recall",
     "subtitle": "Base recall replacements",
-    "cover": "https://github.com/kairimlbb17-tech/shesh/raw/refs/heads/main/images/Rectangle_5.png",
+    "cover": "https://github.com/kairimlbb17-tech/shesh/raw/refs/heads/main/images/effect_studio/recall.png",
     "order": 0
   },
   {
     "key": "trail",
     "title": "Trail",
     "subtitle": "Movement & skill trails",
-    "cover": "https://github.com/kairimlbb17-tech/shesh/raw/refs/heads/main/images/Rectangle_6.png",
+    "cover": "https://github.com/kairimlbb17-tech/shesh/raw/refs/heads/main/images/effect_studio/trail.png",
     "order": 1
   },
   {
     "key": "emote",
     "title": "Emote",
     "subtitle": "In-game emote effects",
-    "cover": "https://github.com/kairimlbb17-tech/shesh/raw/refs/heads/main/images/Rectangle_8.png",
+    "cover": "https://github.com/kairimlbb17-tech/shesh/raw/refs/heads/main/images/effect_studio/emote.png",
     "order": 2
   },
   {
     "key": "elimination",
     "title": "Elimination",
     "subtitle": "Kill & spawn effects",
-    "cover": "https://github.com/kairimlbb17-tech/shesh/raw/refs/heads/main/images/Rectangle_7.png",
+    "cover": "https://github.com/kairimlbb17-tech/shesh/raw/refs/heads/main/images/effect_studio/elimination.png",
     "order": 3
   }
 ]
