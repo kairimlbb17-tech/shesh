@@ -36,6 +36,28 @@
       ]
     },
     {
+      "id": "aulus_berserker",
+      "hero": "Aulus",
+      "base_name": "Barserker",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604033730",
+      "backup_script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip",
+      "enabled": true,
+      "skin_tags": [
+        "elite"
+      ],
+      "targets": [
+        {
+          "id": "aulus_baren_pioneer_to_barren_poneer",
+          "name": "Barren Pioneer",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero1083-portrait.png/revision/latest/scale-to-width-down/150?cb=20260619033752",
+          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Aulus%20Basic%20to%20ELITE.zip",
+          "type": "aulus",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
       "id": "saber_golden_flash",
       "hero": "Saber",
       "base_name": "Golden Flash",
@@ -11392,7 +11414,7 @@
           "id": "freya_dragon_hunter_to_galactic_vanquisher",
           "name": "Galactic Vanquisher",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest?cb=20240114101726",
-          "script": "https://github.com/missnapokita/Upgrade1/raw/main/freya%20star%20to%20legend.zip",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20starlight%20to%20legend.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13580,7 +13602,7 @@
           "id": "thamuz_lord_of_wraith_to_general_kai",
           "name": "General Kai",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
-          "script": "https://github.com/missnapokita/fightupgrade/raw/main/thamuz%20normal%20to%20kungfu.zip",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20BASIC%20TO%20KUNGFU.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13620,7 +13642,7 @@
           "id": "thamuz_abyssal_reaper_to_general_kai",
           "name": "General Kai",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
-          "script": "https://github.com/missnapokita/fightupgrade/raw/main/thamuz%20special%20to%20kungfu.zip",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20SPECIAL%20TO%20KUNGFU.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
@@ -13666,13 +13688,22 @@
           "id": "thamuz_liquid_fire_to_general_kai",
           "name": "General Kai",
           "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest?cb=20220804115335",
-          "script": "https://github.com/missnapokita/fightupgrade/raw/main/thamuz%20elite%20to%20kungfu.zip",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20ELITE%20TO%20KUNGFU.zip",
           "type": "upgrade",
           "enabled": true,
           "skin_tags": [
             "kung_fu_panda",
             "elite"
           ]
+        },
+        {
+          "id": "thamuz_liquid_fire_to_the_annihilator",
+          "name": "The Annihilator",
+          "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/thamuz.png",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/THAMUZ%20ELITE%20TO%2011.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ],
       "skin_tags": []
@@ -15474,6 +15505,276 @@
           "skin_tags": [
             "msc"
           ]
+        }
+      ]
+    },
+    {
+      "id": "beatrix_x_factor",
+      "hero": "Beatrix",
+      "base_name": "X Factor",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
+      "backup_script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20M4.zip",
+      "enabled": true,
+      "skin_tags": [
+        "normal"
+      ],
+      "targets": [
+        {
+          "id": "beatrix_x_factor_to_light_chaser",
+          "name": "Light Chaser",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20M4.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "m4"
+          ]
+        },
+        {
+          "id": "beatrix_x_factor_to_stellaris_briliance",
+          "name": "Stellaris Briliance",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20PRIME.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "m4"
+          ]
+        },
+        {
+          "id": "beatrix_x_factor_to_skyforce_maverick",
+          "name": "SkyForce Maverick",
+          "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/20250914_013556.jpg",
+          "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/A2%20Beatrix%20FMVP%20Basic.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "epic"
+          ]
+        },
+        {
+          "id": "beatrix_x_factor_to_four_seasons_of_fragrance",
+          "name": "Four Seasons of Fragrance",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+          "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Basic/Beatrix%20Basic%20to%20Epic.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "epic"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "beatrix_blitz_attack",
+      "hero": "Beatrix",
+      "base_name": "Blitz Attack",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170422",
+      "backup_script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20M4.zip",
+      "enabled": true,
+      "skin_tags": [
+        "elite"
+      ],
+      "targets": [
+        {
+          "id": "beatrix_blitz_attack_to_light_chaser",
+          "name": "Light Chaser",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20M4.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "m4"
+          ]
+        },
+        {
+          "id": "beatrix_blitz_attack_to_stellar_briliance",
+          "name": "Stellar Briliance",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Elite%20to%20PRIME.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": [
+            "m4"
+          ]
+        },
+        {
+          "id": "beatrix_blitz_attack_to_four_seasons_of_fragrance",
+          "name": "Four Seasons of Fragrance",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+          "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Skins/Beatrix%20Epic%20Script%20(Skin02)%20-%20Nutx.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "beatrix_space_agent",
+      "hero": "Beatrix",
+      "base_name": "Space Agent",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170423",
+      "backup_script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Basic%20to%20M4.zip",
+      "enabled": true,
+      "skin_tags": [
+        "starlight"
+      ],
+      "targets": [
+        {
+          "id": "beatrix_space_agent_to_stellar_briliance",
+          "name": "Stellar Briliance",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1056-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103146",
+          "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Bea%20Starlight%20to%20PRIME.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "beatrix_space_agent_to_four_seasons_of_fragrance",
+          "name": "Four Seasons of Fragrance",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+          "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Skins/Beatrix%20Epic%20Script%20(Skin03)%20-%20Nutx.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "freya_christmas_carnival",
+      "hero": "Freya",
+      "base_name": "Christmas Carnival",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero227-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164806",
+      "backup_script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20luckybox.zip",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "freya_christmas_carnival_to_galactic_vanguisher",
+          "name": "Galactic Vanguisher",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "freya_raven_shogun",
+      "hero": "Freya",
+      "base_name": "Raven Shogun",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero228-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164807",
+      "backup_script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20luckybox.zip",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "freya_raven_shogun_to_galactic_vanguisher",
+          "name": "Galactic Vanguisher",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20epic%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "freya_beach_sweetheart",
+      "hero": "Freya",
+      "base_name": "Beach Sweetheart",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero224-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164803",
+      "backup_script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20luckybox.zip",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "freya_beach_sweetheart_to_galactic_vanguisher",
+          "name": "Galactic Vanguisher",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20summer%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "freya_beach_sweetheart_to_starborn_resolve",
+          "name": "Starborn Resolve",
+          "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_122113.jpg",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/FREYA%20SUMMER%20TO%20STARLIGHT.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "freya_war_angel",
+      "hero": "Freya",
+      "base_name": "War Angel",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest/scale-to-width-down/150?cb=20250405154535",
+      "backup_script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20luckybox.zip",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "freya_war_angel_to_galactic_vanguisher",
+          "name": "Galactic Vanguisher",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20luckybox%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "freya_s_a_b_e_r_manhunter",
+      "hero": "Freya",
+      "base_name": "S.A.B.E.R. Manhunter",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero229-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164809",
+      "backup_script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20luckybox.zip",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "freya_s_a_b_e_r_manhunter_to_galactic_vanguisher",
+          "name": "Galactic Vanguisher",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20saber%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        }
+      ]
+    },
+    {
+      "id": "freya_gladiator",
+      "hero": "Freya",
+      "base_name": "Gladiator",
+      "base_image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero226-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164805",
+      "backup_script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20christmas%20to%20luckybox.zip",
+      "enabled": true,
+      "skin_tags": [],
+      "targets": [
+        {
+          "id": "freya_gladiator_to_galactic_vanguisher",
+          "name": "Galactic Vanguisher",
+          "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+          "script": "https://github.com/azizboy2007/ZHUB-DSKTOP-SCRPT2025/raw/main/freya%20elite%20to%20legend.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
+        },
+        {
+          "id": "freya_gladiator_to_starborn_resolve",
+          "name": "Starborn Resolve",
+          "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_122113.jpg",
+          "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/elite/main/FREYA%20ELITE%20TO%20STARLIGHT.zip",
+          "type": "upgrade",
+          "enabled": true,
+          "skin_tags": []
         }
       ]
     }
