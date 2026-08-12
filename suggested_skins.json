@@ -1,38 +1,8 @@
 [
   {
-    "name": "Cyber Assassin",
-    "hero": "Aamon",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Aamon_%28Cyber_Assassin%29.jpg/revision/latest/scale-to-width-down/1215?cb=20230825080854",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/aamon_cyberassassin.zip"
-  },
-  {
-    "name": "Kung Fu Panda",
-    "hero": "Akai",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Akai_%28Kung_Fu_Panda%29.jpg/revision/latest/scale-to-width-down/1215?cb=20220804115052",
-    "script": "https://github.com/tin0521/tnk/raw/main/akai_kungfu.zip"
-  },
-  {
-    "name": "King of Supremacy",
-    "hero": "Aldous",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Aldous_%28King_of_Supremacy%29.jpg/revision/latest/scale-to-width-down/1215?cb=20241229020713",
-    "script": "https://github.com/tin0521/neww/raw/main/aldous_m1.zip"
-  },
-  {
-    "name": "Divine Owl",
-    "hero": "Alice",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Divine_Owl_and_Midnight_Raven_wall.JPG/revision/latest/scale-to-width-down/1215?cb=20200419034055",
-    "script": "https://github.com/tin0521/mge/raw/main/alice_divine.zip"
-  },
-  {
-    "name": "Onimusha Commander",
-    "hero": "Alpha",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Alpha_%28Onimusha_Commander%29.jpg/revision/latest/scale-to-width-down/1215?cb=20220322122516",
-    "script": "https://github.com/tin0521/ff/raw/main/alpha_onimusha.zip"
-  },
-  {
-    "name": "Child of the Fall",
-    "hero": "Alucard",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Alucard_%28Child_of_the_Fall%29.jpg/revision/latest/scale-to-width-down/1215?cb=20250601064155",
-    "script": "https://github.com/tin0521/ff/raw/refs/heads/main/alucard_childofthefall.zip"
+    "name": "Nazar King",
+    "hero": "Kaja",
+    "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/revkaja.jpeg",
+    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/Revamped-Kaja/Revamped.Kaja.Default.Backup.zip"
   }
 ]
