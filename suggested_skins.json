@@ -1,8 +1,62 @@
 [
   {
-    "name": "Nazar King",
-    "hero": "Kaja",
-    "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/revkaja.jpeg",
-    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/Revamped-Kaja/Revamped.Kaja.Default.Backup.zip"
+    "name": "Raiden Maru",
+    "hero": "Argus",
+    "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/argus-titan-collector-skin-splash-art-v0-v2ikao3ya7ch1.png",
+    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/CCTitans/Argus.Collector.Titan.Replace.Default.-.K4IJ1.zip"
+  },
+  {
+    "name": "Celestial Rebel",
+    "hero": "Sun",
+    "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/sun-titans-collector-skin-v0-j5zdgc6b87ch1.jpeg",
+    "script": "https://github.com/Mr-Nutcracker/ntx/releases/download/CCTitans/Sun.Collector.Titan.Replace.Default.-.K4IJ1.zip"
+  },
+  {
+    "name": "Ryu (Outfit 2)",
+    "hero": "Paquito",
+    "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/Paquito_(Ryu_(Outfit_2)).webp",
+    "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Paquito/Paquito%20Default/Paquito%20Street%20Fighter%20-%20Ryu%20(Outfit%202).zip"
+  },
+  {
+    "name": "Kaiju of the Deep",
+    "hero": "Helcurt",
+    "image": "https://github.com/azizboy2007/imissyou/raw/main/file_0000000077c48207a28241947d690d9f.png",
+    "script": "https://github.com/Meow00001/Files/raw/main/Helcurt/Helcurt%20Default/Helcurt%20Collector%20Titans.zip"
+  },
+  {
+    "name": "Seasons of Fragrance",
+    "hero": "Beatrix",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAzQCVz4iTpx76GRQ-CXaY3Cc_Q1Z48LkyVM7MXdRS9leMOCjfHUn_v26P&s=10",
+    "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Beatrix/Beatrix%20Default/Beatrix%20Epic.zip"
+  },
+  {
+    "name": "Skylark(Revamp)",
+    "hero": "Fanny",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Fanny_%28Skylark%29.jpg/revision/latest?cb=20211010124153",
+    "script": "https://github.com/Meow00001/Files/raw/main/Fanny/Fanny%20Default/Fanny%20Luckybox.zip"
+  },
+  {
+    "name": "Guile (Outfit 2)",
+    "hero": "Dyrroth",
+    "image": "https://pbs.twimg.com/media/HJaaVY0aMAAWUfO?format=jpg&name=large",
+    "script": "https://github.com/Meow00001/Files/raw/main/Dyrroth/Dyrroth%20Default/Dyrroth%20Street%20Fighter%20-%20Guile%20(Outfit%202).zip"
+  },
+  {
+    "name": "Chun-Li (Outfit 2)",
+    "hero": "Guinevere",
+    "image": "https://pbs.twimg.com/media/HJaa0dFa0AAmZ9O?format=jpg&name=large",
+    "script": "https://github.com/Meow00001/Files/raw/main/Guinevere/Guinevere%20Default/Guinevere%20Street%20Figther%20-%20Chun%20Li%20(Outfit%202).zip"
+  },
+  {
+    "name": "Ken",
+    "hero": "Chou",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2CxMsqy2zdPuGH2XTFkdzL5PYVMpaINLx0Lq0I8E429fwf0arabnp0Q_&s=10",
+    "script": "https://github.com/Meow00001/Files/raw/main/Chou/Chou%20Default/Chou%20Street%20Figther%20-%20Ken%20(Outfit%201).zip"
+  },
+  {
+    "name": "Stardust Dreamer",
+    "hero": "Nana",
+    "image": "https://github.com/Mr-Nutcracker/splashdog/raw/main/nana_s_free_10th_anniversary_skin_splash_art_by_dsfsdfsdfew134_dmee428-fullview.jpg",
+    "script": "https://github.com/Mr-Nutcracker/ntx/raw/main/Nana/Nana%2010th/Nana%2010th%20Anniversary%20Script%20(Default)%20-%20Nutx.zip"
   }
 ]
