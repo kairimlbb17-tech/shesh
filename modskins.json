@@ -2,7 +2,7 @@
   "modskins": [
     {
       "id": "Michael Jackson",
-      "name": "Abdul Aziz Abdul",
+      "name": "Chou",
       "category": "Michael Jackson",
       "series": "Michael Jackson",
       "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/GIF_20260625_111756_709.gif",
@@ -16,7 +16,7 @@
     },
     {
       "id": "alucard",
-      "name": "Abdul Aziz Abdul",
+      "name": "Alucard",
       "category": "Anime",
       "series": "Ichigo Kurosaki",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
@@ -30,7 +30,7 @@
     },
     {
       "id": "aizen",
-      "name": "Abdul Aziz Abdul",
+      "name": "Argus",
       "category": "Anime",
       "series": "Bleach",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
@@ -44,7 +44,7 @@
     },
     {
       "id": "suguru_geto",
-      "name": "Abdul Aziz Abdul",
+      "name": "Valir",
       "category": "Anime",
       "series": "Jujutsu Kaizen",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
@@ -58,7 +58,7 @@
     },
     {
       "id": "choso",
-      "name": "Abdul Aziz Abdul",
+      "name": "Brody",
       "category": "Anime",
       "series": "JujutsuKaisen",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
@@ -72,7 +72,7 @@
     },
     {
       "id": "argus",
-      "name": "Abdul Aziz Abdul",
+      "name": "Argus",
       "category": "Anime",
       "series": "JujutsuKaisen",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Argus%20X%20Toji%20V2.jpg",
@@ -86,7 +86,7 @@
     },
     {
       "id": "kento_nanami",
-      "name": "Abdul Aziz Abdul",
+      "name": "Nolan",
       "category": "Anime",
       "series": "Jujutsu Kaizen",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
@@ -100,7 +100,7 @@
     },
     {
       "id": "monkey_d_luffy",
-      "name": "Abdul Aziz Abdul",
+      "name": "Suyou",
       "category": "Anime",
       "series": "One Piece",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20SORA%20LUFFY.jpg",
@@ -114,7 +114,7 @@
     },
     {
       "id": "kaido",
-      "name": "Abdul Aziz Abdul",
+      "name": "Yu Zhong",
       "category": "Anime",
       "series": "One Piece",
       "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/kaido-hybrid-form.jpg?w=1200&h=900&fit=crop",
@@ -128,7 +128,7 @@
     },
     {
       "id": "paquito",
-      "name": "Abdul Aziz Abdul",
+      "name": "Paquito",
       "category": "Jollibee",
       "series": "Jollibee",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PAQUITO%20JOEBELII.jpg",
@@ -141,7 +141,7 @@
     },
     {
       "id": "chou",
-      "name": "Abdul Aziz Abdul",
+      "name": "Chou",
       "category": "Mcdonalds",
       "series": "Mcdonalds",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHOU%20MCDO.jpg",
@@ -154,7 +154,7 @@
     },
     {
       "id": "yu_zhong",
-      "name": "Abdul Aziz Abdul",
+      "name": "Alucard",
       "category": "Tanjiro",
       "series": "DemonSlayer",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YUZHONG%20TANJIRO.png",
@@ -168,7 +168,7 @@
     },
     {
       "id": "alucard_2",
-      "name": "Abdul Aziz Abdul",
+      "name": "Alucard",
       "category": "Finn",
       "series": "Adventure Time",
       "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20FINN.jpg",
@@ -182,7 +182,7 @@
     },
     {
       "id": "saitama",
-      "name": "Abdul Aziz Abdul",
+      "name": "Aldous",
       "category": "Saitama",
       "series": "One Punch Man",
       "image": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(21).jpeg",
@@ -195,7 +195,7 @@
     },
     {
       "id": "",
-      "name": "Abdul Aziz Abdul",
+      "name": "Aldous",
       "category": "Patrick",
       "series": "SpongeBob",
       "image": "Std",
@@ -204,18 +204,9 @@
     },
     {
       "id": "",
-      "name": "Abdul Aziz Abdul",
-      "category": "Naruto",
-      "series": "Naruto",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aamon%20naruto.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Abdul Aziz Abdul",
+      "name": "Aldous",
       "category": "BigJett",
-      "series": "Weird",
+      "series": "Big Jett",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20big%20jett.zip",
       "tags": []
@@ -224,7 +215,7 @@
       "id": "",
       "name": "Aldous",
       "category": "DragonKnight",
-      "series": "Custom",
+      "series": "Dragon Knight",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20dragon%20fall%20knight.zip",
       "tags": []
@@ -233,7 +224,7 @@
       "id": "",
       "name": "Aamon",
       "category": "Alahaitam",
-      "series": "Custom",
+      "series": "Alahaitam",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aamon%20alahaitam.zip",
       "tags": []
@@ -242,7 +233,7 @@
       "id": "",
       "name": "Aldous",
       "category": "Exorcist Aldous",
-      "series": "ExorcistCustom",
+      "series": "Exorcist Aldous",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20exorcist.zip",
       "tags": []
@@ -251,7 +242,7 @@
       "id": "",
       "name": "Aldous",
       "category": "Legend",
-      "series": "Custom",
+      "series": "Legend",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20legend.zip",
       "tags": []
@@ -269,7 +260,7 @@
       "id": "",
       "name": "Aldous",
       "category": "Saber",
-      "series": "Custom",
+      "series": "Saber",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20saber.zip",
       "tags": []
@@ -278,7 +269,7 @@
       "id": "",
       "name": "Aldous",
       "category": "Star",
-      "series": "Custom",
+      "series": "Star",
       "image": "K",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20star.zip",
       "tags": []
@@ -287,7 +278,7 @@
       "id": "",
       "name": "Alpha",
       "category": "Edict of Sand",
-      "series": "Custom",
+      "series": "Edict of Sand",
       "image": "M",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alpha%20edict%20of%20the%20sand.zip",
       "tags": []
@@ -296,7 +287,7 @@
       "id": "",
       "name": "Alucard",
       "category": "2nd Form(Legend)",
-      "series": "Custom",
+      "series": "2nd Form(Legend)",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Alucard%202nd%20form.zip",
       "tags": []
@@ -305,7 +296,7 @@
       "id": "",
       "name": "Alucard",
       "category": "Gon",
-      "series": "Hxh",
+      "series": "Gon",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alucard%20as%20gon.zip",
       "tags": []
@@ -314,7 +305,7 @@
       "id": "",
       "name": "Alucard",
       "category": "Finn",
-      "series": "Adventure Time",
+      "series": "Finn",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Alucard%20Finn.zip",
       "tags": []
@@ -323,7 +314,7 @@
       "id": "",
       "name": "Alucard",
       "category": "Ken",
-      "series": "StreetFg",
+      "series": "Ken",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alucard%20ken.zip",
       "tags": []
@@ -332,7 +323,7 @@
       "id": "",
       "name": "Alucard",
       "category": "Old Legend",
-      "series": "Old",
+      "series": "Old Legend",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Alucard%20Old%20Legend.zip",
       "tags": []
@@ -341,7 +332,7 @@
       "id": "",
       "name": "Alucard",
       "category": "Sasuke",
-      "series": "Naruto",
+      "series": "Sasuke",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Alucard%20Sasuke.zip",
       "tags": []
@@ -350,7 +341,7 @@
       "id": "",
       "name": "Alucard",
       "category": "Steeve(777daa)",
-      "series": "Minecraft",
+      "series": "Steeve(777daa)",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alucard%20steve%20777.zip",
       "tags": []
@@ -359,7 +350,7 @@
       "id": "",
       "name": "Alucard",
       "category": "Levi",
-      "series": "Custom ",
+      "series": "Levi ",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alucard%20x%20levi.zip",
       "tags": []
@@ -368,7 +359,7 @@
       "id": "",
       "name": "Argus",
       "category": "Lizard",
-      "series": "Creeps",
+      "series": "Lizard",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/argus%20x%20monitor%20lizard.zip",
       "tags": []
@@ -377,7 +368,7 @@
       "id": "",
       "name": "Arlott",
       "category": "Gojo Satorou",
-      "series": "Custom",
+      "series": "Gojo Satorou",
       "image": "M",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20-%20gojo%20satoru.zip",
       "tags": []
@@ -386,7 +377,7 @@
       "id": "",
       "name": "Arlott",
       "category": "Lightning Thunder",
-      "series": "Custom",
+      "series": "Lightning Thunder",
       "image": "M",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20lighning.zip",
       "tags": []
@@ -395,7 +386,7 @@
       "id": "",
       "name": "Arlott",
       "category": "Exorcist Arlott",
-      "series": "Custom",
+      "series": "Exorcist Arlott",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20x%20exorcist.zip",
       "tags": []
@@ -404,7 +395,7 @@
       "id": "",
       "name": "Arlott",
       "category": "Levi",
-      "series": "Custom",
+      "series": "Levi",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20x%20levi.zip",
       "tags": []
@@ -413,7 +404,7 @@
       "id": "",
       "name": "Arlott",
       "category": "Sasuke",
-      "series": "Naruto",
+      "series": "Sasuke",
       "image": "C",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20x%20sasuke.zip",
       "tags": []
@@ -422,7 +413,7 @@
       "id": "",
       "name": "Atlas",
       "category": "Sunken Course",
-      "series": "Custom",
+      "series": "Sunken Course",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/atlas%20sunken%20course.zip",
       "tags": []
@@ -431,7 +422,7 @@
       "id": "",
       "name": "Aulus",
       "category": "Starwake",
-      "series": "Custom",
+      "series": "Starwake",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aulos%20starwake%20corsair.zip",
       "tags": []
@@ -440,7 +431,7 @@
       "id": "",
       "name": "Aurora",
       "category": "Candles Vigil",
-      "series": "Custom",
+      "series": "Candles Vigil",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aurora%20candles%20vigil.zip",
       "tags": []
@@ -449,7 +440,7 @@
       "id": "",
       "name": "Aurora",
       "category": "Kinshin Densetsu",
-      "series": "Kinshin",
+      "series": "Kinshin Densetsu",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aurora%20kinshin%20densetsu.zip",
       "tags": []
@@ -458,7 +449,7 @@
       "id": "",
       "name": "Balmond",
       "category": "Exorcist",
-      "series": "Custom",
+      "series": "Exorcist",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Balmond%20Exorcist.zip",
       "tags": []
@@ -467,7 +458,7 @@
       "id": "",
       "name": "Barats",
       "category": "Colosal Titan",
-      "series": "Custom",
+      "series": "Colosal Titan",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Barats%20Colosal%20Titan.zip",
       "tags": []
@@ -476,7 +467,7 @@
       "id": "",
       "name": "Barats",
       "category": "Dinosawrr",
-      "series": "Custom",
+      "series": "Dinosawrr",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Barats%20Dinosawr.zip",
       "tags": []
@@ -485,7 +476,7 @@
       "id": "",
       "name": "Barats",
       "category": "Iron Hide",
-      "series": "Custom ",
+      "series": "Iron Hide ",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Barats%20IronHide.zip",
       "tags": []
@@ -494,7 +485,7 @@
       "id": "",
       "name": "Baxia",
       "category": "Aegis of Honour",
-      "series": "Custom",
+      "series": "Aegis of Honour",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Baxia%20Aegis%20of%20honor.zip",
       "tags": []
@@ -503,7 +494,7 @@
       "id": "",
       "name": "Baxia",
       "category": "Bumblebee",
-      "series": "Custom",
+      "series": "Bumblebee",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Baxia%20Bumble%20bee.zip",
       "tags": []
@@ -512,7 +503,7 @@
       "id": "",
       "name": "Beatrix",
       "category": "Epic(Chinese)",
-      "series": "Import",
+      "series": "Epic(Chinese)",
       "image": "Custo",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Beatrix%20chinese.zip",
       "tags": []
@@ -521,7 +512,7 @@
       "id": "",
       "name": "Beatrix",
       "category": "Frost Fire",
-      "series": "Custom",
+      "series": "Frost Fire",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/beatrix%20frost%20fire.zip",
       "tags": []
@@ -530,7 +521,7 @@
       "id": "",
       "name": "Benedetta",
       "category": "Aspirant",
-      "series": "Custom ",
+      "series": "Aspirant ",
       "image": "Wew",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/benedeta%20aspirant.zip",
       "tags": []
@@ -539,7 +530,7 @@
       "id": "",
       "name": "Benedetta",
       "category": "Maki Zennin",
-      "series": "Custom",
+      "series": "Maki Zennin",
       "image": "H",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/benedeta%20maki%20zenin.zip",
       "tags": []
@@ -548,7 +539,7 @@
       "id": "",
       "name": "Benedetta",
       "category": "Sasuke",
-      "series": "Naruto",
+      "series": "Sasuke",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/benedeta%20sasuke.zip",
       "tags": []
@@ -557,7 +548,7 @@
       "id": "",
       "name": "Carmila",
       "category": "Christmas",
-      "series": "Custom",
+      "series": "Christmas",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/carmila%20christmas.zip",
       "tags": []
@@ -566,7 +557,7 @@
       "id": "",
       "name": "Carmila",
       "category": "Pompurin",
-      "series": "Custom",
+      "series": "Pompurin",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/carmila%20pompurin.zip",
       "tags": []
@@ -575,7 +566,7 @@
       "id": "",
       "name": "Clint",
       "category": "Metro Zero",
-      "series": "Custom",
+      "series": "Metro Zero",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Clint%20Metro%20Zero.zip",
       "tags": []
@@ -584,7 +575,7 @@
       "id": "",
       "name": "Cyclops",
       "category": "Gojo",
-      "series": "Custom",
+      "series": "Gojo",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Cyclops%20X%20Gojo.zip",
       "tags": []
@@ -593,7 +584,7 @@
       "id": "",
       "name": "Fanny",
       "category": "Spider Man",
-      "series": "Custom",
+      "series": "Spider Man",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/fanny%20spiderman.zip",
       "tags": []
@@ -602,7 +593,7 @@
       "id": "",
       "name": "Fredrinn",
       "category": "Kagenou",
-      "series": "Custom",
+      "series": "Kagenou",
       "image": "K",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Fredrinn%20Cid%20Kagenou.zip",
       "tags": []
@@ -611,7 +602,7 @@
       "id": "",
       "name": "Gatotkaca",
       "category": "Sakura",
-      "series": "Custom",
+      "series": "Sakura",
       "image": "Custom",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gatotkaca%20Sakura.zip",
       "tags": []
@@ -620,7 +611,7 @@
       "id": "",
       "name": "Gord",
       "category": "Iron Man",
-      "series": "Custom",
+      "series": "Iron Man",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gord%20iron%20man.zip",
       "tags": []
@@ -629,7 +620,7 @@
       "id": "",
       "name": "Gord",
       "category": "Ocong",
-      "series": "Indo",
+      "series": "Ocong",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gord%20Ocong.zip",
       "tags": []
@@ -638,7 +629,7 @@
       "id": "",
       "name": "Gord",
       "category": "Son of Goku",
-      "series": "Custom",
+      "series": "Son of Goku",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gord%20Son%20of%20Goku.zip",
       "tags": []
@@ -647,7 +638,7 @@
       "id": "",
       "name": "Granger",
       "category": "Exorcist(V2)",
-      "series": "Custom",
+      "series": "Exorcist(V2)",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/granger%20exorcist%20white%20hair.zip",
       "tags": []
@@ -656,7 +647,7 @@
       "id": "",
       "name": "Gusion",
       "category": "Elemental Dragon",
-      "series": "Custom",
+      "series": "Elemental Dragon",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gusion%20Elemental%20dragon.zip",
       "tags": []
@@ -665,7 +656,7 @@
       "id": "",
       "name": "Gusion",
       "category": "Old Nightowl",
-      "series": "Custom",
+      "series": "Old Nightowl",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gusion%20Night%20Owl%20Old.zip",
       "tags": []
@@ -674,7 +665,7 @@
       "id": "",
       "name": "Gusion",
       "category": "Gojo",
-      "series": "Custom ",
+      "series": "Gojo ",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gusion%20x%20gojo.zip",
       "tags": []
@@ -683,7 +674,7 @@
       "id": "",
       "name": "Hanabi",
       "category": "Chic Glamour ",
-      "series": "Custom ",
+      "series": "Chic Glamour  ",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hanabi%20Chic%20glamour.zip",
       "tags": []
@@ -692,7 +683,7 @@
       "id": "",
       "name": "Hanabi",
       "category": "Kurapika",
-      "series": "Custom ",
+      "series": "Kurapika ",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hanabi%20X%20kurapika.zip",
       "tags": []
@@ -701,7 +692,7 @@
       "id": "",
       "name": "Hanzo",
       "category": "Exorcist Hanzo",
-      "series": "Exorcist",
+      "series": "Exorcist Hanzo",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hanzo%20Exorcist.zip",
       "tags": []
@@ -710,7 +701,7 @@
       "id": "",
       "name": "Hanzo",
       "category": "Fangs of Slaughter ",
-      "series": "Custom",
+      "series": "Fangs of Slaughter ",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hanzo%20Fangs%20of%20Slaughter.zip",
       "tags": []
@@ -719,7 +710,7 @@
       "id": "",
       "name": "Harith",
       "category": "Ember Fang",
-      "series": "Custom",
+      "series": "Ember Fang",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Harith%20Rebel%20Ember%20fang.zip",
       "tags": []
@@ -728,7 +719,7 @@
       "id": "",
       "name": "Harley",
       "category": "Glimmering Koi",
-      "series": "Custom",
+      "series": "Glimmering Koi",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/harley%20glimmering%20koi.zip",
       "tags": []
@@ -737,7 +728,7 @@
       "id": "",
       "name": "Harley",
       "category": "Rippling Koi",
-      "series": "Custom",
+      "series": "Rippling Koi",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/harley%20ripling%20koi.zip",
       "tags": []
@@ -746,7 +737,7 @@
       "id": "",
       "name": "Hayabusa",
       "category": "Hisoka",
-      "series": "Custom ",
+      "series": "Hisoka ",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hayabusa%20Hisoka.zip",
       "tags": []
@@ -755,7 +746,7 @@
       "id": "",
       "name": "Helcurt",
       "category": "Cyber Infiltrator",
-      "series": "Custom",
+      "series": "Cyber Infiltrator",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/helcurt%20cyber%20infiltrator.zip",
       "tags": []
@@ -764,7 +755,7 @@
       "id": "",
       "name": "Hilda",
       "category": "Guardian Batallion",
-      "series": "Custom",
+      "series": "Guardian Batallion",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/hilda%20guardian%20batallion.zip",
       "tags": []
@@ -773,7 +764,7 @@
       "id": "",
       "name": "Hylos",
       "category": "Abyssal Warrior",
-      "series": "Custom ",
+      "series": "Abyssal Warrior ",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/hylos%20Abyssal%20Warriror.zip",
       "tags": []
@@ -782,7 +773,7 @@
       "id": "",
       "name": "Hylos",
       "category": "Dino",
-      "series": "Custom",
+      "series": "Dino",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hylos%20x%20dino%20turttle.zip",
       "tags": []
@@ -791,7 +782,7 @@
       "id": "",
       "name": "Kagura",
       "category": "Cyber Bunny",
-      "series": "Custom",
+      "series": "Cyber Bunny",
       "image": "Kiw",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Kagura%20Cyber%20Bunny.zip",
       "tags": []
@@ -800,7 +791,7 @@
       "id": "",
       "name": "Khufra",
       "category": "Jake",
-      "series": "Custom",
+      "series": "Jake",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Khufra%20X%20jake.zip",
       "tags": []
@@ -809,7 +800,7 @@
       "id": "",
       "name": "Kimmy",
       "category": "Sandy Cheeks",
-      "series": "Custom ",
+      "series": "Sandy Cheeks ",
       "image": "K",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Kimmy%20x%20sandy%20cheecks.zip",
       "tags": []
@@ -818,7 +809,7 @@
       "id": "",
       "name": "Lancelot",
       "category": "Kakashi",
-      "series": "Naruto",
+      "series": "Kakashi",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/lancelot%20x%20kakashi.zip",
       "tags": []
@@ -827,7 +818,7 @@
       "id": "",
       "name": "Lancelot",
       "category": "Mikasa",
-      "series": "Custom",
+      "series": "Mikasa",
       "image": "Raw",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Lancelot%20x%20mikasa.zip",
       "tags": []
@@ -836,7 +827,7 @@
       "id": "",
       "name": "Lancelot",
       "category": "Minato",
-      "series": "Custom",
+      "series": "Minato",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Lancelot%20x%20minato.zip",
       "tags": []
@@ -845,7 +836,7 @@
       "id": "",
       "name": "Layla",
       "category": "Nobara",
-      "series": "Custom ",
+      "series": "Nobara ",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Layla%20x%20nobara.zip",
       "tags": []
@@ -854,7 +845,7 @@
       "id": "",
       "name": "Ling",
       "category": "Levi",
-      "series": "Custom",
+      "series": "Levi",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Ling%20levi.zip",
       "tags": []
@@ -863,7 +854,7 @@
       "id": "",
       "name": "Martis",
       "category": "Zoro",
-      "series": "Custom",
+      "series": "Zoro",
       "image": "K",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/martis%20x%20zoro.zip",
       "tags": []
@@ -872,7 +863,7 @@
       "id": "",
       "name": "Minotour",
       "category": "Bumblebee ",
-      "series": "Custom ",
+      "series": "Bumblebee ",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/minotour%20bumbolbee.zip",
       "tags": []
@@ -881,7 +872,7 @@
       "id": "",
       "name": "Miya",
       "category": "Elemental Dragon",
-      "series": "Custom",
+      "series": "Elemental Dragon",
       "image": "Img",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/miya%20elemental%20dragon.zip",
       "tags": []
@@ -890,7 +881,7 @@
       "id": "",
       "name": "Moscov",
       "category": "Crimson Shadow",
-      "series": "Custom",
+      "series": "Crimson Shadow",
       "image": "K",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Moscov%20Crimson%20shadow.zip",
       "tags": []
@@ -899,7 +890,7 @@
       "id": "",
       "name": "Moscov",
       "category": "Gojo Satorou",
-      "series": "Custom",
+      "series": "Gojo Satorou",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Moscov%20Gojo%20satorou.zip",
       "tags": []
@@ -908,7 +899,7 @@
       "id": "",
       "name": "Nana",
       "category": "Spirit Artisan",
-      "series": "Custom",
+      "series": "Spirit Artisan",
       "image": "Hj",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Nana%20Stardust%20dreamer.zip",
       "tags": []
@@ -917,7 +908,7 @@
       "id": "",
       "name": "Nana",
       "category": "Master Yoda",
-      "series": "Custom",
+      "series": "Master Yoda",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Nana%20Yoda%20master.zip",
       "tags": []
@@ -926,7 +917,7 @@
       "id": "",
       "name": "Obsidia",
       "category": "Magitec Rate",
-      "series": "Custom",
+      "series": "Magitec Rate",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/obsidia%20magitec%20rate.zip",
       "tags": []
@@ -935,7 +926,7 @@
       "id": "",
       "name": "Phoveus ",
       "category": "Kof",
-      "series": "Custom",
+      "series": "Kof",
       "image": "Jj",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/phoveus%20kof%20v2.zip",
       "tags": []
@@ -944,7 +935,7 @@
       "id": "",
       "name": "Rafaela",
       "category": "Arcade",
-      "series": "Custom",
+      "series": "Arcade",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Rafaela%20Arcade.zip",
       "tags": []
@@ -953,7 +944,7 @@
       "id": "",
       "name": "Roger",
       "category": "Ashbone",
-      "series": "Custom",
+      "series": "Ashbone",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Roger%20ashbone.zip",
       "tags": []
@@ -962,7 +953,7 @@
       "id": "",
       "name": "Ruby",
       "category": "Exorcist Ruby",
-      "series": "Custom",
+      "series": "Exorcist Ruby",
       "image": "K",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Ruby%20Exorcist.zip",
       "tags": []
@@ -971,7 +962,7 @@
       "id": "",
       "name": "Saber",
       "category": "Exorcist Saber",
-      "series": "Custom",
+      "series": "Exorcist Saber",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Saber%20Exorcist.zip",
       "tags": []
@@ -980,7 +971,7 @@
       "id": "",
       "name": "Sun",
       "category": "Minato",
-      "series": "Naruto",
+      "series": "Minato",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Sun%20Minato.zip",
       "tags": []
@@ -989,7 +980,7 @@
       "id": "",
       "name": "Moscov",
       "category": "All Star",
-      "series": "Custom",
+      "series": "All Star",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Sun%20Moscov%20All%20Star.zip",
       "tags": []
@@ -998,7 +989,7 @@
       "id": "",
       "name": "Suyou",
       "category": "Sasuke",
-      "series": "Naruto",
+      "series": "Sasuke",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Suyou%20Sasuke%20v2.zip",
       "tags": []
@@ -1007,7 +998,7 @@
       "id": "",
       "name": "Suyou",
       "category": "Yuta V2",
-      "series": "Custom",
+      "series": "Yuta V2",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Suyou%20Yuta%20v2.zip",
       "tags": []
@@ -1016,7 +1007,7 @@
       "id": "",
       "name": "Suyou",
       "category": "Yuta",
-      "series": "Custom",
+      "series": "Yuta",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Suyou%20Yuta.zip",
       "tags": []
@@ -1025,7 +1016,7 @@
       "id": "",
       "name": "Tigreal",
       "category": "Gon",
-      "series": "Custom",
+      "series": "Gon",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Tigreal%20x%20gon.zip",
       "tags": []
@@ -1034,7 +1025,7 @@
       "id": "",
       "name": "Vexanna",
       "category": "Eternal Vows",
-      "series": "Custom ",
+      "series": "Eternal Vows ",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Vexana%20Eternal%20Vows.zip",
       "tags": []
@@ -1043,7 +1034,7 @@
       "id": "",
       "name": "Vexanna",
       "category": "Twilight Star",
-      "series": "Custom ",
+      "series": "Twilight Star ",
       "image": "Jj",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Vexana%20Twilight%20Star.zip",
       "tags": []
@@ -1052,7 +1043,7 @@
       "id": "",
       "name": "Yin",
       "category": "Kakashi",
-      "series": "Custom",
+      "series": "Kakashi",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/yin%20x%20kakashi.zip",
       "tags": []
@@ -1061,7 +1052,7 @@
       "id": "",
       "name": "Yin",
       "category": "Yuta",
-      "series": "Custom",
+      "series": "Yuta",
       "image": "N",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Yin%20x%20yuta.zip",
       "tags": []
@@ -1070,7 +1061,7 @@
       "id": "",
       "name": "Yu Zhong",
       "category": "Kungfu Panda",
-      "series": "Custom",
+      "series": "Kungfu Panda",
       "image": "J",
       "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Yuzhong%20X%20kungfu%20panda.zip",
       "tags": []
