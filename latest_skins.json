@@ -1,50 +1,50 @@
 [
   {
-    "id": 133001,
-    "label": "Hiara — Gilded Embers"
-  },
-  {
-    "id": 133000,
-    "label": "Hiara — Fallen Scarlet"
-  },
-  {
-    "id": 132001,
-    "label": "Marcel — Split Shadows"
-  },
-  {
-    "id": 132000,
-    "label": "Marcel — Soul Photographer"
-  },
-  {
-    "id": 131001,
-    "label": "Sora — Azure Cloud"
-  },
-  {
-    "id": 131000,
-    "label": "Sora — Shifting Cloud"
-  },
-  {
     "id": 130002,
     "label": "Obsidia — Magitech Wraith"
   },
   {
-    "id": 130001,
-    "label": "Obsidia — Undying Remnants"
+    "id": 128002,
+    "label": "Kalea — Sakura Haruno"
   },
   {
-    "id": 130000,
-    "label": "Obsidia — Sovereign of Dark's End"
+    "id": 126001,
+    "label": "Suyou — Venerated Vigilance"
   },
   {
-    "id": 129002,
-    "label": "Zetian — Sunset Luminance"
+    "id": 125002,
+    "label": "Zhuxin — Emberwisp Mystic"
   },
   {
-    "id": 129001,
-    "label": "Zetian — Heavenly Splendor"
+    "id": 125001,
+    "label": "Zhuxin — Ethereal Serenity"
   },
   {
-    "id": 129000,
-    "label": "Zetian — Celestial Empress"
+    "id": 124002,
+    "label": "Chip — Badlands Hiatus"
+  },
+  {
+    "id": 123002,
+    "label": "Cici — Circus Reverie"
+  },
+  {
+    "id": 123001,
+    "label": "Cici — Whimsical Carnival"
+  },
+  {
+    "id": 122003,
+    "label": "Nolan — The Navigator"
+  },
+  {
+    "id": 122002,
+    "label": "Nolan — Fashion Mogul"
+  },
+  {
+    "id": 122001,
+    "label": "Nolan — Voidwalker"
+  },
+  {
+    "id": 121003,
+    "label": "Ixia — Invoker's Command"
   }
 ]
