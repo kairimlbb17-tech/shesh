@@ -3798,32 +3798,6 @@
       ]
     },
     {
-      "id": "boom",
-      "name": "Boom",
-      "category": "assassin",
-      "enabled": true,
-      "skins": [
-        {
-          "id": "boom_001",
-          "name": "",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero721-portrait.png/revision/latest/thumbnail/width/360/height/450?cb=20250917080630",
-          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/thanuz_kungfuassets.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": []
-        },
-        {
-          "id": "boom_002",
-          "name": "",
-          "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
-          "script": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/chou_dragon2017.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": []
-        }
-      ]
-    },
-    {
       "id": "brody",
       "name": "Brody",
       "category": "marksman",
@@ -7234,35 +7208,6 @@
             }
           ],
           "name": ""
-        },
-        {
-          "id": "eudora_008",
-          "skin_name": "Emerald Enchantress",
-          "image": "https://github.com/tin0521/mmimg/raw/main/img_20241024_205541477.png",
-          "script": "https://github.com/tin0521/mge/raw/main/eudora_emerald.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "luckybox",
-              "name": "Luckybox",
-              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Luckybox_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-              "file": "Luckybox Skin Tag.png"
-            },
-            {
-              "id": "eudora",
-              "name": "eudora",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "mage",
-              "name": "mage",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
         }
       ]
     },
@@ -8219,7 +8164,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Legend Skin Tag.png"
             }
-          ]
+          ],
+          "skin_name": "Legend"
         },
         {
           "id": "freya_003",
@@ -9167,35 +9113,6 @@
         {
           "id": "granger_011",
           "skin_name": "Bio Solder",
-          "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_203513542.png",
-          "script": "https://github.com/tin0521/mm/raw/main/granger_biosoldier.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "starlight",
-              "name": "Starlight",
-              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-              "file": "Starlight Skin Tag.png"
-            },
-            {
-              "id": "granger",
-              "name": "granger",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "marksman",
-              "name": "marksman",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
-        },
-        {
-          "id": "granger_012",
-          "skin_name": "B",
           "image": "https://github.com/tin0521/mmimg/raw/main/img_20241023_203513542.png",
           "script": "https://github.com/tin0521/mm/raw/main/granger_biosoldier.zip",
           "featured": false,
@@ -15018,7 +14935,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/The_Aspirants_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "The Aspirants Skin Tag.png"
             }
-          ]
+          ],
+          "skin_name": "Aspirant"
         },
         {
           "id": "layla_003",
@@ -15688,7 +15606,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Legend_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Legend Skin Tag.png"
             }
-          ]
+          ],
+          "skin_name": "Legend"
         },
         {
           "id": "lesley_007",
@@ -24231,35 +24150,6 @@
             }
           ],
           "name": ""
-        },
-        {
-          "id": "x_borg_007",
-          "skin_name": "Graffiti Fashion",
-          "image": "https://github.com/tin0521/fightimg/raw/refs/heads/main/img_20241017_154235172.png",
-          "script": "https://github.com/tin0521/ff/raw/main/xborg_graffiti.zip",
-          "featured": false,
-          "enabled": true,
-          "tags": [
-            {
-              "id": "starlight",
-              "name": "Starlight",
-              "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
-              "file": "Starlight Skin Tag.png"
-            },
-            {
-              "id": "x_borg",
-              "name": "x borg",
-              "icon": "",
-              "file": ""
-            },
-            {
-              "id": "fighter",
-              "name": "fighter",
-              "icon": "",
-              "file": ""
-            }
-          ],
-          "name": ""
         }
       ]
     },
@@ -25180,7 +25070,8 @@
               "icon": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Starlight_Skin_Tag.png/revision/latest/scale-to-width-down/75",
               "file": "Starlight Skin Tag.png"
             }
-          ]
+          ],
+          "skin_name": "Starlight"
         },
         {
           "id": "zetian_003",
