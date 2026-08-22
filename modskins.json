@@ -1,1098 +1,6 @@
 {
   "modskins": [
     {
-      "id": "Michael Jackson",
-      "name": "Chou",
-      "category": "Michael Jackson",
-      "series": "Michael Jackson",
-      "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/GIF_20260625_111756_709.gif",
-      "script": "https://github.com/WG170320/Resources-/raw/refs/heads/main/Mj%20Skin.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Ichigo Kurosaki",
-        "Bleach"
-      ],
-      "backup": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
-    },
-    {
-      "id": "alucard",
-      "name": "Alucard",
-      "category": "Anime",
-      "series": "Ichigo Kurosaki",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Ichigo Kurosaki",
-        "Bleach"
-      ],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "aizen",
-      "name": "Argus",
-      "category": "Anime",
-      "series": "Bleach",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Aizen",
-        "Bleach"
-      ]
-    },
-    {
-      "id": "suguru_geto",
-      "name": "Valir",
-      "category": "Anime",
-      "series": "Jujutsu Kaizen",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Suguru Geto",
-        "Jujutsu Kaizen"
-      ]
-    },
-    {
-      "id": "choso",
-      "name": "Brody",
-      "category": "Anime",
-      "series": "JujutsuKaisen",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Choso",
-        "Jujutsu Kaizen"
-      ]
-    },
-    {
-      "id": "argus",
-      "name": "Argus",
-      "category": "Anime",
-      "series": "JujutsuKaisen",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Argus%20X%20Toji%20V2.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Toji Foshiguru",
-        "JujutsuKaisen"
-      ]
-    },
-    {
-      "id": "kento_nanami",
-      "name": "Nolan",
-      "category": "Anime",
-      "series": "Jujutsu Kaizen",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Kento Nanami",
-        "Jujutsu Kaizen"
-      ]
-    },
-    {
-      "id": "monkey_d_luffy",
-      "name": "Suyou",
-      "category": "Anime",
-      "series": "One Piece",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20SORA%20LUFFY.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Sora%20X%20Monkey%20D%20Luffy.zip",
-      "enabled": true,
-      "featured": true,
-      "tags": [
-        "Monkey D'Luffy",
-        "One piece"
-      ]
-    },
-    {
-      "id": "kaido",
-      "name": "Yu Zhong",
-      "category": "Anime",
-      "series": "One Piece",
-      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/03/kaido-hybrid-form.jpg?w=1200&h=900&fit=crop",
-      "script": "https://github.com/xxx/kaido.zip",
-      "enabled": true,
-      "featured": true,
-      "tags": [
-        "Kaido",
-        "One Piece"
-      ]
-    },
-    {
-      "id": "paquito",
-      "name": "Paquito",
-      "category": "Jollibee",
-      "series": "Jollibee",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20PAQUITO%20JOEBELII.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20PAQUITOO%20JOLIIBEE.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Jollibee"
-      ],
-      "backup": "https://github.com/missnapokita/June2024-N-O-P/raw/main/paquito%20backup.zip"
-    },
-    {
-      "id": "chou",
-      "name": "Chou",
-      "category": "Mcdonalds",
-      "series": "Mcdonalds",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHOU%20MCDO.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20CHOU%20TO%20MCDOO.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Mcdonalds"
-      ],
-      "backup": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
-    },
-    {
-      "id": "yu_zhong",
-      "name": "Alucard",
-      "category": "Tanjiro",
-      "series": "DemonSlayer",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YUZHONG%20TANJIRO.png",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20YuZhong%20Tanjiro.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Tanjiro",
-        "DemonSlayer"
-      ],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "alucard_2",
-      "name": "Alucard",
-      "category": "Finn",
-      "series": "Adventure Time",
-      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20FINN.jpg",
-      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20X%20FINN.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "Finn",
-        "Adventure Time"
-      ],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "saitama",
-      "name": "Aldous",
-      "category": "Saitama",
-      "series": "One Punch Man",
-      "image": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(21).jpeg",
-      "script": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20ALDOUS%20SAITAMA.zip",
-      "enabled": true,
-      "featured": false,
-      "tags": [
-        "One Punch Man"
-      ]
-    },
-    {
-      "id": "",
-      "name": "Aldous",
-      "category": "Patrick",
-      "series": "SpongeBob",
-      "image": "Std",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/akai%20patrick.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aldous",
-      "category": "BigJett",
-      "series": "Big Jett",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20big%20jett.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aldous",
-      "category": "DragonKnight",
-      "series": "Dragon Knight",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20dragon%20fall%20knight.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aamon",
-      "category": "Alahaitam",
-      "series": "Alahaitam",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aamon%20alahaitam.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aldous",
-      "category": "Exorcist Aldous",
-      "series": "Exorcist Aldous",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20exorcist.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aldous",
-      "category": "Legend",
-      "series": "Legend",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20legend.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aldous",
-      "category": "Naruto",
-      "series": "Naruto",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Aldous%20naruto.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aldous",
-      "category": "Saber",
-      "series": "Saber",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20saber.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aldous",
-      "category": "Star",
-      "series": "Star",
-      "image": "K",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aldous%20star.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Alpha",
-      "category": "Edict of Sand",
-      "series": "Edict of Sand",
-      "image": "M",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alpha%20edict%20of%20the%20sand.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Alucard",
-      "category": "2nd Form(Legend)",
-      "series": "2nd Form(Legend)",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Alucard%202nd%20form.zip",
-      "tags": [],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Alucard",
-      "category": "Gon",
-      "series": "Gon",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alucard%20as%20gon.zip",
-      "tags": [],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Alucard",
-      "category": "Finn",
-      "series": "Finn",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Alucard%20Finn.zip",
-      "tags": [],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Alucard",
-      "category": "Ken",
-      "series": "Ken",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alucard%20ken.zip",
-      "tags": [],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Alucard",
-      "category": "Old Legend",
-      "series": "Old Legend",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Alucard%20Old%20Legend.zip",
-      "tags": [],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Alucard",
-      "category": "Sasuke",
-      "series": "Sasuke",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Alucard%20Sasuke.zip",
-      "tags": [],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Alucard",
-      "category": "Steeve(777daa)",
-      "series": "Steeve(777daa)",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alucard%20steve%20777.zip",
-      "tags": [],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Alucard",
-      "category": "Levi",
-      "series": "Levi ",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/alucard%20x%20levi.zip",
-      "tags": [],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Argus",
-      "category": "Lizard",
-      "series": "Lizard",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/argus%20x%20monitor%20lizard.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Arlott",
-      "category": "Gojo Satorou",
-      "series": "Gojo Satorou",
-      "image": "M",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20-%20gojo%20satoru.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/assassin/raw/main/arlott_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Arlott",
-      "category": "Lightning Thunder",
-      "series": "Lightning Thunder",
-      "image": "M",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20lighning.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/assassin/raw/main/arlott_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Arlott",
-      "category": "Exorcist Arlott",
-      "series": "Exorcist Arlott",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20x%20exorcist.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/assassin/raw/main/arlott_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Arlott",
-      "category": "Levi",
-      "series": "Levi",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20x%20levi.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/assassin/raw/main/arlott_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Arlott",
-      "category": "Sasuke",
-      "series": "Sasuke",
-      "image": "C",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/arlott%20x%20sasuke.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/assassin/raw/main/arlott_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Atlas",
-      "category": "Sunken Course",
-      "series": "Sunken Course",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/atlas%20sunken%20course.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aulus",
-      "category": "Starwake",
-      "series": "Starwake",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aulos%20starwake%20corsair.zip",
-      "tags": [],
-      "backup": "https://github.com/missnapokita/june-2024/raw/main/aulos%20backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Aurora",
-      "category": "Candles Vigil",
-      "series": "Candles Vigil",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aurora%20candles%20vigil.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Aurora",
-      "category": "Kinshin Densetsu",
-      "series": "Kinshin Densetsu",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/aurora%20kinshin%20densetsu.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Balmond",
-      "category": "Exorcist",
-      "series": "Exorcist",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Balmond%20Exorcist.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Barats",
-      "category": "Colosal Titan",
-      "series": "Colosal Titan",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Barats%20Colosal%20Titan.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Barats",
-      "category": "Dinosawrr",
-      "series": "Dinosawrr",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Barats%20Dinosawr.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Barats",
-      "category": "Iron Hide",
-      "series": "Iron Hide ",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Barats%20IronHide.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Baxia",
-      "category": "Aegis of Honour",
-      "series": "Aegis of Honour",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Baxia%20Aegis%20of%20honor.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Baxia",
-      "category": "Bumblebee",
-      "series": "Bumblebee",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Baxia%20Bumble%20bee.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Beatrix",
-      "category": "Epic(Chinese)",
-      "series": "Epic(Chinese)",
-      "image": "Custo",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Beatrix%20chinese.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Beatrix",
-      "category": "Frost Fire",
-      "series": "Frost Fire",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/beatrix%20frost%20fire.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Benedetta",
-      "category": "Aspirant",
-      "series": "Aspirant ",
-      "image": "Wew",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/benedeta%20aspirant.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Benedetta",
-      "category": "Maki Zennin",
-      "series": "Maki Zennin",
-      "image": "H",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/benedeta%20maki%20zenin.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Benedetta",
-      "category": "Sasuke",
-      "series": "Sasuke",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/benedeta%20sasuke.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Carmila",
-      "category": "Christmas",
-      "series": "Christmas",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/carmila%20christmas.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Carmila",
-      "category": "Pompurin",
-      "series": "Pompurin",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/carmila%20pompurin.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Clint",
-      "category": "Metro Zero",
-      "series": "Metro Zero",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Clint%20Metro%20Zero.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Cyclops",
-      "category": "Gojo",
-      "series": "Gojo",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Cyclops%20X%20Gojo.zip",
-      "tags": [],
-      "backup": "https://github.com/zetsuya05/january/raw/main/cyclops_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Fanny",
-      "category": "Spider Man",
-      "series": "Spider Man",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/fanny%20spiderman.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Fredrinn",
-      "category": "Kagenou",
-      "series": "Kagenou",
-      "image": "K",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Fredrinn%20Cid%20Kagenou.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Gatotkaca",
-      "category": "Sakura",
-      "series": "Sakura",
-      "image": "Custom",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gatotkaca%20Sakura.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Gord",
-      "category": "Iron Man",
-      "series": "Iron Man",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gord%20iron%20man.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Gord",
-      "category": "Ocong",
-      "series": "Ocong",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gord%20Ocong.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Gord",
-      "category": "Son of Goku",
-      "series": "Son of Goku",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gord%20Son%20of%20Goku.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Granger",
-      "category": "Exorcist(V2)",
-      "series": "Exorcist(V2)",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/granger%20exorcist%20white%20hair.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Gusion",
-      "category": "Elemental Dragon",
-      "series": "Elemental Dragon",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gusion%20Elemental%20dragon.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Gusion",
-      "category": "Old Nightowl",
-      "series": "Old Nightowl",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gusion%20Night%20Owl%20Old.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Gusion",
-      "category": "Gojo",
-      "series": "Gojo ",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Gusion%20x%20gojo.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Hanabi",
-      "category": "Chic Glamour ",
-      "series": "Chic Glamour  ",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hanabi%20Chic%20glamour.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Hanabi",
-      "category": "Kurapika",
-      "series": "Kurapika ",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hanabi%20X%20kurapika.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Hanzo",
-      "category": "Exorcist Hanzo",
-      "series": "Exorcist Hanzo",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hanzo%20Exorcist.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Hanzo",
-      "category": "Fangs of Slaughter ",
-      "series": "Fangs of Slaughter ",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hanzo%20Fangs%20of%20Slaughter.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Harith",
-      "category": "Ember Fang",
-      "series": "Ember Fang",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Harith%20Rebel%20Ember%20fang.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Harley",
-      "category": "Glimmering Koi",
-      "series": "Glimmering Koi",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/harley%20glimmering%20koi.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Harley",
-      "category": "Rippling Koi",
-      "series": "Rippling Koi",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/harley%20ripling%20koi.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Hayabusa",
-      "category": "Hisoka",
-      "series": "Hisoka ",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hayabusa%20Hisoka.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Helcurt",
-      "category": "Cyber Infiltrator",
-      "series": "Cyber Infiltrator",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/helcurt%20cyber%20infiltrator.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Hilda",
-      "category": "Guardian Batallion",
-      "series": "Guardian Batallion",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/hilda%20guardian%20batallion.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/tnk/raw/main/hilda_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Hylos",
-      "category": "Abyssal Warrior",
-      "series": "Abyssal Warrior ",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/hylos%20Abyssal%20Warriror.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Hylos",
-      "category": "Dino",
-      "series": "Dino",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Hylos%20x%20dino%20turttle.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Kagura",
-      "category": "Cyber Bunny",
-      "series": "Cyber Bunny",
-      "image": "Kiw",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Kagura%20Cyber%20Bunny.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Khufra",
-      "category": "Jake",
-      "series": "Jake",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Khufra%20X%20jake.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Kimmy",
-      "category": "Sandy Cheeks",
-      "series": "Sandy Cheeks ",
-      "image": "K",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Kimmy%20x%20sandy%20cheecks.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Lancelot",
-      "category": "Kakashi",
-      "series": "Kakashi",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/lancelot%20x%20kakashi.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Lancelot",
-      "category": "Mikasa",
-      "series": "Mikasa",
-      "image": "Raw",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Lancelot%20x%20mikasa.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Lancelot",
-      "category": "Minato",
-      "series": "Minato",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Lancelot%20x%20minato.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Layla",
-      "category": "Nobara",
-      "series": "Nobara ",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Layla%20x%20nobara.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Ling",
-      "category": "Levi",
-      "series": "Levi",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Ling%20levi.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Martis",
-      "category": "Zoro",
-      "series": "Zoro",
-      "image": "K",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/martis%20x%20zoro.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/dec2025/raw/refs/heads/main/martis_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Minotour",
-      "category": "Bumblebee ",
-      "series": "Bumblebee ",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/minotour%20bumbolbee.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Miya",
-      "category": "Elemental Dragon",
-      "series": "Elemental Dragon",
-      "image": "Img",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/miya%20elemental%20dragon.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Moscov",
-      "category": "Crimson Shadow",
-      "series": "Crimson Shadow",
-      "image": "K",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Moscov%20Crimson%20shadow.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Moscov",
-      "category": "Gojo Satorou",
-      "series": "Gojo Satorou",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Moscov%20Gojo%20satorou.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Nana",
-      "category": "Spirit Artisan",
-      "series": "Spirit Artisan",
-      "image": "Hj",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Nana%20Stardust%20dreamer.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/supp/raw/main/nana_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Nana",
-      "category": "Master Yoda",
-      "series": "Master Yoda",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Nana%20Yoda%20master.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/supp/raw/main/nana_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Obsidia",
-      "category": "Magitec Rate",
-      "series": "Magitec Rate",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/obsidia%20magitec%20rate.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Phoveus ",
-      "category": "Kof",
-      "series": "Kof",
-      "image": "Jj",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/phoveus%20kof%20v2.zip",
-      "tags": [],
-      "backup": "https://github.com/tin0521/ff/raw/main/phoveus_backup.zip"
-    },
-    {
-      "id": "",
-      "name": "Rafaela",
-      "category": "Arcade",
-      "series": "Arcade",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Rafaela%20Arcade.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Roger",
-      "category": "Ashbone",
-      "series": "Ashbone",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Roger%20ashbone.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Ruby",
-      "category": "Exorcist Ruby",
-      "series": "Exorcist Ruby",
-      "image": "K",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Ruby%20Exorcist.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Saber",
-      "category": "Exorcist Saber",
-      "series": "Exorcist Saber",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Saber%20Exorcist.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Sun",
-      "category": "Minato",
-      "series": "Minato",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Sun%20Minato.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Moscov",
-      "category": "All Star",
-      "series": "All Star",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Sun%20Moscov%20All%20Star.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Suyou",
-      "category": "Sasuke",
-      "series": "Sasuke",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Suyou%20Sasuke%20v2.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Suyou",
-      "category": "Yuta V2",
-      "series": "Yuta V2",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Suyou%20Yuta%20v2.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Suyou",
-      "category": "Yuta",
-      "series": "Yuta",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Suyou%20Yuta.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Tigreal",
-      "category": "Gon",
-      "series": "Gon",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Tigreal%20x%20gon.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Vexanna",
-      "category": "Eternal Vows",
-      "series": "Eternal Vows ",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Vexana%20Eternal%20Vows.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Vexanna",
-      "category": "Twilight Star",
-      "series": "Twilight Star ",
-      "image": "Jj",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Vexana%20Twilight%20Star.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Yin",
-      "category": "Kakashi",
-      "series": "Kakashi",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/yin%20x%20kakashi.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Yin",
-      "category": "Yuta",
-      "series": "Yuta",
-      "image": "N",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Yin%20x%20yuta.zip",
-      "tags": []
-    },
-    {
-      "id": "",
-      "name": "Yu Zhong",
-      "category": "Kungfu Panda",
-      "series": "Kungfu Panda",
-      "image": "J",
-      "script": "https://raw.githubusercontent.com/azizboy2007/imissyou/main/Yuzhong%20X%20kungfu%20panda.zip",
-      "tags": []
-    },
-    {
       "id": "phoveus_jiraya",
       "name": "Phoveus",
       "category": "Jiraya",
@@ -1544,6 +452,20 @@
       ]
     },
     {
+      "id": "nolan_nanami",
+      "name": "Nolan",
+      "category": "Nanami",
+      "series": "Nanami",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Nanami",
+        "Nolan"
+      ]
+    },
+    {
       "id": "argus_hidan",
       "name": "Argus",
       "category": "Hidan",
@@ -1554,6 +476,20 @@
       "featured": false,
       "tags": [
         "Hidan",
+        "Argus"
+      ]
+    },
+    {
+      "id": "argus_toji",
+      "name": "Argus",
+      "category": "Toji",
+      "series": "Toji",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Argus%20X%20Toji%20V2.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Toji",
         "Argus"
       ]
     },
@@ -1642,6 +578,34 @@
       ]
     },
     {
+      "id": "argus_aizen",
+      "name": "Argus",
+      "category": "Aizen",
+      "series": "Aizen",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Aizen",
+        "Argus"
+      ]
+    },
+    {
+      "id": "brody_choso",
+      "name": "Brody",
+      "category": "Choso",
+      "series": "Choso",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Choso",
+        "Brody"
+      ]
+    },
+    {
       "id": "cecilion_heino",
       "name": "Cecilion",
       "category": "Heino",
@@ -1670,6 +634,20 @@
       ]
     },
     {
+      "id": "cecilion_suguru_geto",
+      "name": "Cecilion",
+      "category": "Suguru Geto",
+      "series": "Suguru Geto",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Suguru Geto",
+        "Cecilion"
+      ]
+    },
+    {
       "id": "cecilion_shino",
       "name": "Cecilion",
       "category": "Shino",
@@ -1694,6 +672,21 @@
       "featured": false,
       "tags": [
         "Shanks",
+        "Alucard"
+      ],
+      "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
+    },
+    {
+      "id": "alucard_ichigo",
+      "name": "Alucard",
+      "category": "Ichigo",
+      "series": "Ichigo",
+      "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
+      "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
+      "enabled": true,
+      "featured": false,
+      "tags": [
+        "Ichigo",
         "Alucard"
       ],
       "backup": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
@@ -2229,7 +1222,5 @@
         "Melissa"
       ]
     }
-  ],
-  "version": 1,
-  "type": "modskins"
+  ]
 }
