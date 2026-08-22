@@ -1,9 +1,5 @@
 [
   {
-    "id": 130002,
-    "label": "Obsidia — Magitech Wraith"
-  },
-  {
     "id": 128002,
     "label": "Kalea — Sakura Haruno"
   },
@@ -46,5 +42,9 @@
   {
     "id": 121003,
     "label": "Ixia — Invoker's Command"
+  },
+  {
+    "id": 121002,
+    "label": "Ixia — Dynamic Streak"
   }
 ]
